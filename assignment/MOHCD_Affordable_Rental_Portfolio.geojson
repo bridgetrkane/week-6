@@ -1,0 +1,5591 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422061,37.765874 ]
+    },
+    "properties": {
+    "ID":290,
+    "Status":"Operational",
+    "Name":"Plaza del Sol",
+    "Address":"440 Valencia St, San Francisco, CA 94103",
+    "TotalUnits":59,
+    "AffordableUnits":59,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "ID":2,
+    "Status":"Operational",
+    "Name":"Brennan House",
+    "Address":"0 Confidential, San Francisco, CA 00000",
+    "TotalUnits":15,
+    "AffordableUnits":15,
+    "AffordableBeds":0,
+    "Sponsor":"St. Vincent De Paul Society",
+    "Neighborhood":" ",
+    "SupervisorDistrict":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41676,37.757115 ]
+    },
+    "properties": {
+    "ID":9,
+    "Status":"Operational",
+    "Name":"Juan Pifarre Plaza",
+    "Address":"1010 South Van Ness, San Francisco, CA 94110",
+    "TotalUnits":30,
+    "AffordableUnits":30,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40704,37.794121 ]
+    },
+    "properties": {
+    "ID":1409,
+    "Status":"Operational",
+    "Name":"Chinese American Citizens Alliance -S.F.",
+    "Address":"843 Clay St, San Francisco, CA 94108",
+    "TotalUnits":26,
+    "AffordableUnits":26,
+    "AffordableBeds":0,
+    "Sponsor":"Chinese American Citizens Alliance",
+    "Neighborhood":"Chinatown",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429166,37.770333 ]
+    },
+    "properties": {
+    "ID":1187,
+    "Status":"Operational",
+    "Name":"Church Street Apartments",
+    "Address":"1 Church St, San Francisco, CA 94114",
+    "TotalUnits":93,
+    "AffordableUnits":93,
+    "AffordableBeds":0,
+    "Sponsor":"Bridge Housing",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408754,37.780924 ]
+    },
+    "properties": {
+    "ID":1794,
+    "Status":"Operational",
+    "Name":"Hunter Hotel",
+    "Address":"100 6th St, San Francisco, CA 94103",
+    "TotalUnits":14,
+    "AffordableUnits":6,
+    "AffordableBeds":0,
+    "Sponsor":"Patel, Dipakbhai",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423536,37.796692 ]
+    },
+    "properties": {
+    "ID":174,
+    "Status":"Operational",
+    "Name":"2300 Van Ness",
+    "Address":"2300 Van Ness Ave, San Francisco, CA 94109",
+    "TotalUnits":22,
+    "AffordableUnits":22,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc.",
+    "Neighborhood":"Russian Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428777,37.772381 ]
+    },
+    "properties": {
+    "ID":264,
+    "Status":"Operational",
+    "Name":"Haight Street Apartments",
+    "Address":"398 Haight St, San Francisco, CA 94102",
+    "TotalUnits":12,
+    "AffordableUnits":12,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413401,37.785686 ]
+    },
+    "properties": {
+    "ID":312,
+    "Status":"Operational",
+    "Name":"525 O'Farrell",
+    "Address":"525 O'Farrell St, San Francisco, CA 94102",
+    "TotalUnits":26,
+    "AffordableUnits":26,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc.",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.440971,37.798773 ]
+    },
+    "properties": {
+    "ID":1606,
+    "Status":"Operational",
+    "Name":"Edward II",
+    "Address":"3151 Scott St, San Francisco, CA 94123",
+    "TotalUnits":25,
+    "AffordableUnits":24,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Marina",
+    "SupervisorDistrict":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420317,37.770902 ]
+    },
+    "properties": {
+    "ID":1597,
+    "Status":"Operational",
+    "Name":"Veterans Commons",
+    "Address":"150 Otis St, San Francisco, CA 94103",
+    "TotalUnits":80,
+    "AffordableUnits":80,
+    "AffordableBeds":0,
+    "Sponsor":"Swords To Plowshares / Chinatown Community Development Center",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393652,37.72701 ]
+    },
+    "properties": {
+    "ID":1306,
+    "Status":"Operational",
+    "Name":"Armstrong Place",
+    "Address":"5600 3rd St, San Francisco, CA 94124",
+    "TotalUnits":116,
+    "AffordableUnits":116,
+    "AffordableBeds":0,
+    "Sponsor":"Bridge Housing",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426259,37.764001 ]
+    },
+    "properties": {
+    "ID":242,
+    "Status":"Operational",
+    "Name":"Notre Dame Plaza",
+    "Address":"347 Dolores St, San Francisco, CA 94110",
+    "TotalUnits":66,
+    "AffordableUnits":66,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415699,37.787427 ]
+    },
+    "properties": {
+    "ID":385,
+    "Status":"Operational",
+    "Name":"City Heights Apts (aka Avalon Nob Hill)",
+    "Address":"840 Post St, San Francisco, CA 94109",
+    "TotalUnits":185,
+    "AffordableUnits":37,
+    "AffordableBeds":0,
+    "Sponsor":"Bay Apartment Copommunities, Inc.",
+    "Neighborhood":"Nob Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409284,37.749524 ]
+    },
+    "properties": {
+    "ID":212,
+    "Status":"Operational",
+    "Name":"Magdalena Mora House",
+    "Address":"2973 26th St, San Francisco, CA 94110",
+    "TotalUnits":2,
+    "AffordableUnits":2,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.37704,37.729446 ]
+    },
+    "properties": {
+    "ID":297,
+    "Status":"Operational",
+    "Name":"Reardon Heights (formerly Aspen South Hills)",
+    "Address":"50 Reardon Rd, San Francisco, CA 94124",
+    "TotalUnits":82,
+    "AffordableUnits":82,
+    "AffordableBeds":0,
+    "Sponsor":"Reardon Heights Associates, LP",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.444425,37.731468 ]
+    },
+    "properties": {
+    "ID":957,
+    "Status":"Operational",
+    "Name":"Monterey Boulevard Apartments",
+    "Address":"403 Monterey Blvd, San Francisco, CA 94112",
+    "TotalUnits":4,
+    "AffordableUnits":4,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"West of Twin Peaks",
+    "SupervisorDistrict":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411557,37.777229 ]
+    },
+    "properties": {
+    "ID":965,
+    "Status":"Operational",
+    "Name":"Canon Barcus Community House",
+    "Address":"670 Natoma St, San Francisco, CA 94103",
+    "TotalUnits":48,
+    "AffordableUnits":47,
+    "AffordableBeds":0,
+    "Sponsor":"Episcopal Community Services",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407763,37.763108 ]
+    },
+    "properties": {
+    "ID":299,
+    "Status":"Operational",
+    "Name":"Mariposa Gardens",
+    "Address":"2445 Mariposa St, San Francisco, CA 94110",
+    "TotalUnits":63,
+    "AffordableUnits":63,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393912,37.781481 ]
+    },
+    "properties": {
+    "ID":10,
+    "Status":"Operational",
+    "Name":"Hotel Parkview",
+    "Address":"102 South Park, San Francisco, CA 94107",
+    "TotalUnits":40,
+    "AffordableUnits":40,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.374468,37.820013 ]
+    },
+    "properties": {
+    "ID":1229,
+    "Status":"Operational",
+    "Name":"TIHDI: Rubicon Villages",
+    "Address":"410 Avenue of the Palms, San Francisco, CA 94130",
+    "TotalUnits":44,
+    "AffordableUnits":44,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Treasure Island",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393484,37.775779 ]
+    },
+    "properties": {
+    "ID":1837,
+    "Status":"Operational",
+    "Name":"Avalon At Mission Bay (Tower 2)",
+    "Address":"200 Berry St, San Francisco, CA 94158",
+    "TotalUnits":313,
+    "AffordableUnits":19,
+    "AffordableBeds":0,
+    "Sponsor":"AvalonBay Communities Inc.",
+    "Neighborhood":"Mission Bay",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40774,37.801003 ]
+    },
+    "properties": {
+    "ID":94,
+    "Status":"Operational",
+    "Name":"Tower Hotel",
+    "Address":"1525 Grant Ave, San Francisco, CA 94133",
+    "TotalUnits":34,
+    "AffordableUnits":17,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"North Beach",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408531,37.779602 ]
+    },
+    "properties": {
+    "ID":2038,
+    "Status":"Operational",
+    "Name":"534-536 Natoma",
+    "Address":"534 Natoma St, San Francisco, CA 94103",
+    "TotalUnits":5,
+    "AffordableUnits":5,
+    "AffordableBeds":0,
+    "Sponsor":"San Francisco Community Land Trust",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398324,37.771952 ]
+    },
+    "properties": {
+    "ID":1839,
+    "Status":"Operational",
+    "Name":"Crescent Cove",
+    "Address":"420 Berry St, San Francisco, CA 94107",
+    "TotalUnits":236,
+    "AffordableUnits":234,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center / Mission Bay Housing Partners",
+    "Neighborhood":"Mission Bay",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431772,37.785383 ]
+    },
+    "properties": {
+    "ID":1043,
+    "Status":"Operational",
+    "Name":"Golden Gate Apartments",
+    "Address":"1820 Post St, San Francisco, CA 94115",
+    "TotalUnits":72,
+    "AffordableUnits":72,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Japantown",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412463,37.782949 ]
+    },
+    "properties": {
+    "ID":152,
+    "Status":"Operational",
+    "Name":"Tenderloin Family Housing",
+    "Address":"201 Turk St, San Francisco, CA 94102",
+    "TotalUnits":175,
+    "AffordableUnits":175,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.392995,37.782429 ]
+    },
+    "properties": {
+    "ID":166,
+    "Status":"Operational",
+    "Name":"Madrid Hotel",
+    "Address":"22 South Park, San Francisco, CA 94107",
+    "TotalUnits":44,
+    "AffordableUnits":44,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41851,37.765072 ]
+    },
+    "properties": {
+    "ID":211,
+    "Status":"Operational",
+    "Name":"2945 16th",
+    "Address":"2945 16th St, San Francisco, CA 94110",
+    "TotalUnits":8,
+    "AffordableUnits":8,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416624,37.748299 ]
+    },
+    "properties": {
+    "ID":231,
+    "Status":"Operational",
+    "Name":"Del Carlo Court",
+    "Address":"3330 Cesar Chavez St, San Francisco, CA 94110",
+    "TotalUnits":25,
+    "AffordableUnits":25,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.51002,37.773825 ]
+    },
+    "properties": {
+    "ID":992,
+    "Status":"Operational",
+    "Name":"La Playa Apartments",
+    "Address":"770 La Playa, San Francisco, CA 94121",
+    "TotalUnits":14,
+    "AffordableUnits":13,
+    "AffordableBeds":0,
+    "Sponsor":"Progress Foundation",
+    "Neighborhood":"Outer Richmond",
+    "SupervisorDistrict":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406524,37.779304 ]
+    },
+    "properties": {
+    "ID":1074,
+    "Status":"Operational",
+    "Name":"Knox Hotel",
+    "Address":"241 6th St, San Francisco, CA 94103",
+    "TotalUnits":140,
+    "AffordableUnits":140,
+    "AffordableBeds":0,
+    "Sponsor":"TODCO Group",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.510084,37.774721 ]
+    },
+    "properties": {
+    "ID":1232,
+    "Status":"Operational",
+    "Name":"Ocean Beach Apartments",
+    "Address":"720 La Playa, San Francisco, CA 94121",
+    "TotalUnits":85,
+    "AffordableUnits":84,
+    "AffordableBeds":0,
+    "Sponsor":"San Francisco Housing Development Corporation / Bayside Communities",
+    "Neighborhood":"Outer Richmond",
+    "SupervisorDistrict":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409543,37.778662 ]
+    },
+    "properties": {
+    "ID":1016,
+    "Status":"Operational",
+    "Name":"Gabreila Apartments",
+    "Address":"583 Natoma St, San Francisco, CA 94103",
+    "TotalUnits":29,
+    "AffordableUnits":29,
+    "AffordableBeds":0,
+    "Sponsor":"Housing Development & Neighborhood Preservation Corporation",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41319,37.773176 ]
+    },
+    "properties": {
+    "ID":1441,
+    "Status":"Operational",
+    "Name":"Bishop Swing Community House",
+    "Address":"275 10th St, San Francisco, CA 94103",
+    "TotalUnits":135,
+    "AffordableUnits":135,
+    "AffordableBeds":0,
+    "Sponsor":"Episcopal Community Services",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413992,37.784766 ]
+    },
+    "properties": {
+    "ID":289,
+    "Status":"Operational",
+    "Name":"Arlington Hotel",
+    "Address":"472 Ellis St, San Francisco, CA 94102",
+    "TotalUnits":154,
+    "AffordableUnits":153,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408103,37.795353 ]
+    },
+    "properties": {
+    "ID":1410,
+    "Status":"Operational",
+    "Name":"Chinese American Citizens Alliance Grand Lodge",
+    "Address":"1044 Stockton St, San Francisco, CA 94108",
+    "TotalUnits":16,
+    "AffordableUnits":16,
+    "AffordableBeds":0,
+    "Sponsor":"Chinese American Citizens Alliance",
+    "Neighborhood":"Chinatown",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414248,37.781877 ]
+    },
+    "properties": {
+    "ID":1555,
+    "Status":"Operational",
+    "Name":"Kelly Cullen Community",
+    "Address":"220 Golden Gate Ave, San Francisco, CA 94102",
+    "TotalUnits":174,
+    "AffordableUnits":172,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413644,37.78481 ]
+    },
+    "properties": {
+    "ID":280,
+    "Status":"Operational",
+    "Name":"450 Ellis St",
+    "Address":"450 Ellis St, San Francisco, CA 94102",
+    "TotalUnits":29,
+    "AffordableUnits":29,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc.",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404151,37.796044 ]
+    },
+    "properties": {
+    "ID":1554,
+    "Status":"Operational",
+    "Name":"Columbus United Cooperative",
+    "Address":"53 Columbus Ave, San Francisco, CA 94111",
+    "TotalUnits":21,
+    "AffordableUnits":21,
+    "AffordableBeds":0,
+    "Sponsor":"San Francisco Community Land Trust",
+    "Neighborhood":"Chinatown",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408244,37.780674 ]
+    },
+    "properties": {
+    "ID":1021,
+    "Status":"Operational",
+    "Name":"The Rose",
+    "Address":"125 6th St, San Francisco, CA 94103",
+    "TotalUnits":75,
+    "AffordableUnits":74,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.390085,37.736379 ]
+    },
+    "properties": {
+    "ID":1196,
+    "Status":"Operational",
+    "Name":"Providence Senior Housing",
+    "Address":"4601 3rd St, San Francisco, CA 94124",
+    "TotalUnits":50,
+    "AffordableUnits":50,
+    "AffordableBeds":0,
+    "Sponsor":"Providence Senior Housing Corporation",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415717,37.782984 ]
+    },
+    "properties": {
+    "ID":1032,
+    "Status":"Operational",
+    "Name":"Midori Hotel",
+    "Address":"240 Hyde St, San Francisco, CA 94102",
+    "TotalUnits":77,
+    "AffordableUnits":77,
+    "AffordableBeds":0,
+    "Sponsor":"Conard House",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.489069,37.781404 ]
+    },
+    "properties": {
+    "ID":1585,
+    "Status":"Operational",
+    "Name":"St. Peter's Place",
+    "Address":"420 29th Ave, San Francisco, CA 94121",
+    "TotalUnits":19,
+    "AffordableUnits":19,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Outer Richmond",
+    "SupervisorDistrict":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420825,37.769324 ]
+    },
+    "properties": {
+    "ID":245,
+    "Status":"Operational",
+    "Name":"Casa Quezada",
+    "Address":"35 Woodward St, San Francisco, CA 94103",
+    "TotalUnits":52,
+    "AffordableUnits":52,
+    "AffordableBeds":0,
+    "Sponsor":"Dolores Street Community Services",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420436,37.788928 ]
+    },
+    "properties": {
+    "ID":1256,
+    "Status":"Operational",
+    "Name":"Leland Polk Senior Community",
+    "Address":"1315 Polk St, San Francisco, CA 94109",
+    "TotalUnits":72,
+    "AffordableUnits":72,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Nob Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420032,37.743373 ]
+    },
+    "properties": {
+    "ID":1051,
+    "Status":"Operational",
+    "Name":"Planetree Housing Program",
+    "Address":"152 Coleridge St, San Francisco, CA 94110",
+    "TotalUnits":11,
+    "AffordableUnits":11,
+    "AffordableBeds":0,
+    "Sponsor":"HealthRight360",
+    "Neighborhood":"Bernal Heights",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410931,37.78363 ]
+    },
+    "properties": {
+    "ID":1243,
+    "Status":"Operational",
+    "Name":"Curran House",
+    "Address":"145 Taylor St, San Francisco, CA 94102",
+    "TotalUnits":67,
+    "AffordableUnits":67,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408904,37.749564 ]
+    },
+    "properties": {
+    "ID":1155,
+    "Status":"Operational",
+    "Name":"Bryant Street Apartments",
+    "Address":"2800 Bryant St, San Francisco, CA 94110",
+    "TotalUnits":7,
+    "AffordableUnits":7,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420343,37.79423 ]
+    },
+    "properties": {
+    "ID":98,
+    "Status":"Operational",
+    "Name":"Chinese Community Church of San Francisco",
+    "Address":"1535 Jackson St, San Francisco, CA 94109",
+    "TotalUnits":18,
+    "AffordableUnits":18,
+    "AffordableBeds":0,
+    "Sponsor":"Chinese Community Church of San Francisco",
+    "Neighborhood":"Russian Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.379498,37.735139 ]
+    },
+    "properties": {
+    "ID":1545,
+    "Status":"Operational",
+    "Name":"Hunters View (Phase 1)",
+    "Address":"112 Middle Point Rd, San Francisco, CA 94124",
+    "TotalUnits":107,
+    "AffordableUnits":107,
+    "AffordableBeds":0,
+    "Sponsor":"Ridgepoint / Devine & Gong / John Stewart Company",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.390105,37.785646 ]
+    },
+    "properties": {
+    "ID":1921,
+    "Status":"Operational",
+    "Name":"Bayside Village",
+    "Address":"3 Bayside Village Pl, San Francisco, CA 94107",
+    "TotalUnits":868,
+    "AffordableUnits":174,
+    "AffordableBeds":0,
+    "Sponsor":"Bayside Village Associates",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437242,37.760435 ]
+    },
+    "properties": {
+    "ID":979,
+    "Status":"Operational",
+    "Name":"Monsignor Lyne Community",
+    "Address":"118 Diamond St, San Francisco, CA 94114",
+    "TotalUnits":20,
+    "AffordableUnits":20,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Castro/Upper Market",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413813,37.786598 ]
+    },
+    "properties": {
+    "ID":338,
+    "Status":"Operational",
+    "Name":"Geary Courtyard",
+    "Address":"639 Geary St, San Francisco, CA 94102",
+    "TotalUnits":164,
+    "AffordableUnits":33,
+    "AffordableBeds":0,
+    "Sponsor":"Geary Courtyard Associates",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393898,37.775296 ]
+    },
+    "properties": {
+    "ID":1311,
+    "Status":"Operational",
+    "Name":"Mission Creek Senior Community",
+    "Address":"225 Berry St, San Francisco, CA 94158",
+    "TotalUnits":140,
+    "AffordableUnits":139,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Mission Bay",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412506,37.783064 ]
+    },
+    "properties": {
+    "ID":154,
+    "Status":"Operational",
+    "Name":"205 Jones",
+    "Address":"205 Jones St, San Francisco, CA 94102",
+    "TotalUnits":50,
+    "AffordableUnits":50,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432738,37.783044 ]
+    },
+    "properties": {
+    "ID":1848,
+    "Status":"Operational",
+    "Name":"Fillmore Center",
+    "Address":"1475 Fillmore St, San Francisco, CA 94115",
+    "TotalUnits":1113,
+    "AffordableUnits":223,
+    "AffordableBeds":0,
+    "Sponsor":"Elkor Realty Corporation",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414432,37.789502 ]
+    },
+    "properties": {
+    "ID":12,
+    "Status":"Operational",
+    "Name":"Mary Elizabeth Inn",
+    "Address":"1040 Bush St, San Francisco, CA 94109",
+    "TotalUnits":93,
+    "AffordableUnits":93,
+    "AffordableBeds":0,
+    "Sponsor":"Mary Elizabeth Inn",
+    "Neighborhood":"Nob Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415174,37.776517 ]
+    },
+    "properties": {
+    "ID":1399,
+    "Status":"Operational",
+    "Name":"Edith Witt Senior Community",
+    "Address":"66 9th St, San Francisco, CA 94103",
+    "TotalUnits":107,
+    "AffordableUnits":107,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422002,37.766694 ]
+    },
+    "properties": {
+    "ID":262,
+    "Status":"Operational",
+    "Name":"Carmelita Apartments",
+    "Address":"391 Valencia St, San Francisco, CA 94103",
+    "TotalUnits":40,
+    "AffordableUnits":25,
+    "AffordableBeds":0,
+    "Sponsor":"Housing Development & Neighborhood Preservation Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411927,37.760954 ]
+    },
+    "properties": {
+    "ID":1530,
+    "Status":"Operational",
+    "Name":"Mosaica Senior Apartments",
+    "Address":"655 Alabama St, San Francisco, CA 94110",
+    "TotalUnits":24,
+    "AffordableUnits":24,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404081,37.794496 ]
+    },
+    "properties": {
+    "ID":343,
+    "Status":"Operational",
+    "Name":"Clayton Hotel",
+    "Address":"657 Clay St, San Francisco, CA 94111",
+    "TotalUnits":82,
+    "AffordableUnits":82,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Chinatown",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414504,37.805459 ]
+    },
+    "properties": {
+    "ID":1255,
+    "Status":"Operational",
+    "Name":"North Beach Place",
+    "Address":"455 Bay St, San Francisco, CA 94133",
+    "TotalUnits":341,
+    "AffordableUnits":341,
+    "AffordableBeds":0,
+    "Sponsor":"Bridge Housing",
+    "Neighborhood":"North Beach",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417456,37.752477 ]
+    },
+    "properties": {
+    "ID":394,
+    "Status":"Operational",
+    "Name":"Capp Street Apartments",
+    "Address":"890 Capp St, San Francisco, CA 94110",
+    "TotalUnits":4,
+    "AffordableUnits":4,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436987,37.787477 ]
+    },
+    "properties": {
+    "ID":1411,
+    "Status":"Operational",
+    "Name":"Rose Court",
+    "Address":"2501 Pine St, San Francisco, CA 94115",
+    "TotalUnits":18,
+    "AffordableUnits":18,
+    "AffordableBeds":0,
+    "Sponsor":"St. Rose Corporation",
+    "Neighborhood":"Pacific Heights",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414253,37.782831 ]
+    },
+    "properties": {
+    "ID":2097,
+    "Status":"Operational",
+    "Name":"308 Turk",
+    "Address":"308 Turk St, San Francisco, CA 94102",
+    "TotalUnits":20,
+    "AffordableUnits":20,
+    "AffordableBeds":0,
+    "Sponsor":"San Francisco Community Land Trust",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433015,37.73817 ]
+    },
+    "properties": {
+    "ID":1145,
+    "Status":"Operational",
+    "Name":"Diamond View Apartments",
+    "Address":"173 Addison St, San Francisco, CA 94131",
+    "TotalUnits":58,
+    "AffordableUnits":58,
+    "AffordableBeds":0,
+    "Sponsor":"Diamond View Residents' Association",
+    "Neighborhood":"Glen Park",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418299,37.784113 ]
+    },
+    "properties": {
+    "ID":366,
+    "Status":"Operational",
+    "Name":"735 Ellis",
+    "Address":"735 Ellis St, San Francisco, CA 94109",
+    "TotalUnits":30,
+    "AffordableUnits":30,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc.",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418367,37.787104 ]
+    },
+    "properties": {
+    "ID":2068,
+    "Status":"Operational",
+    "Name":"1005 Larkin",
+    "Address":"1005 Larkin St, San Francisco, CA 94109",
+    "TotalUnits":28,
+    "AffordableUnits":21,
+    "AffordableBeds":0,
+    "Sponsor":"Chong, Edmond And Mei Wan Chong",
+    "Neighborhood":"Nob Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409173,37.781257 ]
+    },
+    "properties": {
+    "ID":1833,
+    "Status":"Operational",
+    "Name":"Baldwin House Hotel",
+    "Address":"72 6th St, San Francisco, CA 94103",
+    "TotalUnits":207,
+    "AffordableUnits":10,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Housing Clinic",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.37608,37.826421 ]
+    },
+    "properties": {
+    "ID":1150,
+    "Status":"Operational",
+    "Name":"TIHDI: TISH Phases 1 & 2",
+    "Address":"1403 Sturgeon St, San Francisco, CA 94130",
+    "TotalUnits":66,
+    "AffordableUnits":66,
+    "AffordableBeds":0,
+    "Sponsor":"Catholic Charities",
+    "Neighborhood":"Treasure Island",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407201,37.780488 ]
+    },
+    "properties": {
+    "ID":1006,
+    "Status":"Operational",
+    "Name":"479 Natoma",
+    "Address":"479 Natoma St, San Francisco, CA 94103",
+    "TotalUnits":30,
+    "AffordableUnits":30,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc.",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41107,37.760686 ]
+    },
+    "properties": {
+    "ID":1323,
+    "Status":"Operational",
+    "Name":"Mosaica Family Apartments",
+    "Address":"680 Florida St, San Francisco, CA 94110",
+    "TotalUnits":93,
+    "AffordableUnits":93,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422138,37.780766 ]
+    },
+    "properties": {
+    "ID":1400,
+    "Status":"Operational",
+    "Name":"Mary Helen Rodgers Senior Community",
+    "Address":"701 Golden Gate Ave, San Francisco, CA 94102",
+    "TotalUnits":100,
+    "AffordableUnits":99,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411255,37.784054 ]
+    },
+    "properties": {
+    "ID":163,
+    "Status":"Operational",
+    "Name":"Franciscan Towers",
+    "Address":"217 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":105,
+    "AffordableUnits":105,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.487164,37.780107 ]
+    },
+    "properties": {
+    "ID":336,
+    "Status":"Operational",
+    "Name":"Richmond Hills Family Center",
+    "Address":"6324 Geary Blvd, San Francisco, CA 94121",
+    "TotalUnits":13,
+    "AffordableUnits":13,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Outer Richmond",
+    "SupervisorDistrict":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429499,37.776737 ]
+    },
+    "properties": {
+    "ID":342,
+    "Status":"Operational",
+    "Name":"Webster Apartments",
+    "Address":"650 Webster St, San Francisco, CA 94102",
+    "TotalUnits":8,
+    "AffordableUnits":8,
+    "AffordableBeds":0,
+    "Sponsor":"Progress Foundation",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411094,37.77672 ]
+    },
+    "properties": {
+    "ID":1208,
+    "Status":"Operational",
+    "Name":"SOMA Family Apartments",
+    "Address":"1166 Howard St, San Francisco, CA 94103",
+    "TotalUnits":74,
+    "AffordableUnits":74,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420447,37.783956 ]
+    },
+    "properties": {
+    "ID":993,
+    "Status":"Operational",
+    "Name":"Ellis Street Apartments",
+    "Address":"864 Ellis St, San Francisco, CA 94109",
+    "TotalUnits":25,
+    "AffordableUnits":25,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406277,37.77792 ]
+    },
+    "properties": {
+    "ID":1020,
+    "Status":"Operational",
+    "Name":"Columbia Park",
+    "Address":"1035 Folsom St, San Francisco, CA 94103",
+    "TotalUnits":50,
+    "AffordableUnits":50,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422211,37.767416 ]
+    },
+    "properties": {
+    "ID":1322,
+    "Status":"Operational",
+    "Name":"Valencia Gardens",
+    "Address":"340 Valencia St, San Francisco, CA 94103",
+    "TotalUnits":260,
+    "AffordableUnits":260,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430298,37.766265 ]
+    },
+    "properties": {
+    "ID":2075,
+    "Status":"Operational",
+    "Name":"2175 Market",
+    "Address":"2175 Market St, San Francisco, CA 94114",
+    "TotalUnits":88,
+    "AffordableUnits":18,
+    "AffordableBeds":0,
+    "Sponsor":"FC 2175 Market, LLC.",
+    "Neighborhood":"Castro/Upper Market",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411191,37.785019 ]
+    },
+    "properties": {
+    "ID":966,
+    "Status":"Operational",
+    "Name":"Presentation Senior Community",
+    "Address":"301 Ellis St, San Francisco, CA 94102",
+    "TotalUnits":92,
+    "AffordableUnits":92,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416218,37.780667 ]
+    },
+    "properties": {
+    "ID":189,
+    "Status":"Operational",
+    "Name":"Plaza & Ramona Apartments",
+    "Address":"250 McAllister St, San Francisco, CA 94102",
+    "TotalUnits":63,
+    "AffordableUnits":63,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415864,37.7754 ]
+    },
+    "properties": {
+    "ID":1234,
+    "Status":"Operational",
+    "Name":"10th & Mission Family Housing",
+    "Address":"1390 Mission St, San Francisco, CA 94103",
+    "TotalUnits":136,
+    "AffordableUnits":136,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412245,37.782472 ]
+    },
+    "properties": {
+    "ID":72,
+    "Status":"Operational",
+    "Name":"Lyric Hotel",
+    "Address":"140 Jones St, San Francisco, CA 94102",
+    "TotalUnits":58,
+    "AffordableUnits":58,
+    "AffordableBeds":0,
+    "Sponsor":"Conard House",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398106,37.719087 ]
+    },
+    "properties": {
+    "ID":1828,
+    "Status":"Operational",
+    "Name":"Bayview Hill Gardens",
+    "Address":"1075 Le Conte Ave, San Francisco, CA 94124",
+    "TotalUnits":73,
+    "AffordableUnits":72,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412569,37.783385 ]
+    },
+    "properties": {
+    "ID":1230,
+    "Status":"Operational",
+    "Name":"Padre Apartments",
+    "Address":"241 Jones St, San Francisco, CA 94102",
+    "TotalUnits":41,
+    "AffordableUnits":41,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404993,37.795774 ]
+    },
+    "properties": {
+    "ID":1250,
+    "Status":"Operational",
+    "Name":"International Hotel",
+    "Address":"848 Kearny St, San Francisco, CA 94111",
+    "TotalUnits":105,
+    "AffordableUnits":105,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Chinatown",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412432,37.783402 ]
+    },
+    "properties": {
+    "ID":1169,
+    "Status":"Operational",
+    "Name":"Marlton Manor",
+    "Address":"240 Jones St, San Francisco, CA 94102",
+    "TotalUnits":151,
+    "AffordableUnits":150,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423446,37.769753 ]
+    },
+    "properties": {
+    "ID":2087,
+    "Status":"Operational",
+    "Name":"151 Duboce",
+    "Address":"149 Duboce Ave, San Francisco, CA 94103",
+    "TotalUnits":4,
+    "AffordableUnits":4,
+    "AffordableBeds":0,
+    "Sponsor":"San Francisco Community Land Trust",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412229,37.776543 ]
+    },
+    "properties": {
+    "ID":359,
+    "Status":"Operational",
+    "Name":"Canon Kip Community House",
+    "Address":"705 Natoma St, San Francisco, CA 94103",
+    "TotalUnits":103,
+    "AffordableUnits":103,
+    "AffordableBeds":0,
+    "Sponsor":"Episcopal Community Services",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.38467,37.736187 ]
+    },
+    "properties": {
+    "ID":1170,
+    "Status":"Operational",
+    "Name":"Ridgeview Terrace Apartments",
+    "Address":"140 Cashmere St, San Francisco, CA 94124",
+    "TotalUnits":101,
+    "AffordableUnits":100,
+    "AffordableBeds":0,
+    "Sponsor":"Ridgeview Terrace Affordable Housing, Inc.",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425897,37.787085 ]
+    },
+    "properties": {
+    "ID":1879,
+    "Status":"Operational",
+    "Name":"Vintage Coventry",
+    "Address":"1550 Sutter St, San Francisco, CA 94109",
+    "TotalUnits":169,
+    "AffordableUnits":34,
+    "AffordableBeds":0,
+    "Sponsor":"Vintage Senior Living",
+    "Neighborhood":"Pacific Heights",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436931,37.738764 ]
+    },
+    "properties": {
+    "ID":1017,
+    "Status":"Operational",
+    "Name":"Glenridge Apartments",
+    "Address":"9 Berkeley Way, San Francisco, CA 94131",
+    "TotalUnits":277,
+    "AffordableUnits":275,
+    "AffordableBeds":0,
+    "Sponsor":"Glenridge Apartments Residents' Council",
+    "Neighborhood":"Glen Park",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416883,37.771663 ]
+    },
+    "properties": {
+    "ID":110,
+    "Status":"Operational",
+    "Name":"Howard Street Apartments",
+    "Address":"1601 Howard St, San Francisco, CA 94103",
+    "TotalUnits":12,
+    "AffordableUnits":12,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423432,37.781548 ]
+    },
+    "properties": {
+    "ID":1888,
+    "Status":"Operational",
+    "Name":"Parkview Terrace",
+    "Address":"871 Turk St, San Francisco, CA 94102",
+    "TotalUnits":101,
+    "AffordableUnits":100,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center / Bayside Communities",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415574,37.783617 ]
+    },
+    "properties": {
+    "ID":288,
+    "Status":"Operational",
+    "Name":"Yosemite Apartments",
+    "Address":"480 Eddy St, San Francisco, CA 94109",
+    "TotalUnits":32,
+    "AffordableUnits":32,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413803,37.78479 ]
+    },
+    "properties": {
+    "ID":282,
+    "Status":"Operational",
+    "Name":"Klimm Apartments",
+    "Address":"460 Ellis St, San Francisco, CA 94102",
+    "TotalUnits":42,
+    "AffordableUnits":41,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413464,37.784722 ]
+    },
+    "properties": {
+    "ID":277,
+    "Status":"Operational",
+    "Name":"Lassen Apartments",
+    "Address":"441 Ellis St, San Francisco, CA 94102",
+    "TotalUnits":81,
+    "AffordableUnits":81,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc. / Bayside Communities",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406973,37.779979 ]
+    },
+    "properties": {
+    "ID":1325,
+    "Status":"Operational",
+    "Name":"Plaza Apartments",
+    "Address":"988 Howard St, San Francisco, CA 94103",
+    "TotalUnits":106,
+    "AffordableUnits":106,
+    "AffordableBeds":0,
+    "Sponsor":"Public Initiatives Development Corporation",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411284,37.785381 ]
+    },
+    "properties": {
+    "ID":491,
+    "Status":"Operational",
+    "Name":"Cecil Williams Glide Community House",
+    "Address":"333 Taylor St, San Francisco, CA 94102",
+    "TotalUnits":52,
+    "AffordableUnits":52,
+    "AffordableBeds":0,
+    "Sponsor":"Glide",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.389797,37.762802 ]
+    },
+    "properties": {
+    "ID":362,
+    "Status":"Operational",
+    "Name":"Tennessee Street Housing Corporation",
+    "Address":"712 Tennessee St, San Francisco, CA 94107",
+    "TotalUnits":6,
+    "AffordableUnits":6,
+    "AffordableBeds":0,
+    "Sponsor":"Tennessee Street Housing Corporation",
+    "Neighborhood":"Potrero Hill",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411924,37.739831 ]
+    },
+    "properties": {
+    "ID":45,
+    "Status":"Operational",
+    "Name":"Fannie Lou Hamer House",
+    "Address":"1221 Cortland Ave, San Francisco, CA 94110",
+    "TotalUnits":2,
+    "AffordableUnits":2,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Bernal Heights",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406809,37.780109 ]
+    },
+    "properties": {
+    "ID":405,
+    "Status":"Operational",
+    "Name":"Leland Apartments",
+    "Address":"980 Howard St, San Francisco, CA 94103",
+    "TotalUnits":24,
+    "AffordableUnits":24,
+    "AffordableBeds":0,
+    "Sponsor":"TODCO Group",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422771,37.778773 ]
+    },
+    "properties": {
+    "ID":1632,
+    "Status":"Operational",
+    "Name":"Richardson Apartments (Parcel G)",
+    "Address":"365 Fulton St, San Francisco, CA 94102",
+    "TotalUnits":120,
+    "AffordableUnits":120,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406071,37.798003 ]
+    },
+    "properties": {
+    "ID":314,
+    "Status":"Operational",
+    "Name":"Swiss American Hotel",
+    "Address":"534 Broadway, San Francisco, CA 94133",
+    "TotalUnits":66,
+    "AffordableUnits":66,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"North Beach",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413464,37.711258 ]
+    },
+    "properties": {
+    "ID":90,
+    "Status":"Operational",
+    "Name":"Britton Courts",
+    "Address":"1250 Sunnydale Ave, San Francisco, CA 94134",
+    "TotalUnits":92,
+    "AffordableUnits":92,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Visitacion Valley",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420621,37.766576 ]
+    },
+    "properties": {
+    "ID":115,
+    "Status":"Operational",
+    "Name":"Garden Court Apartments",
+    "Address":"1637 15th St, San Francisco, CA 94103",
+    "TotalUnits":16,
+    "AffordableUnits":15,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428706,37.764566 ]
+    },
+    "properties": {
+    "ID":1137,
+    "Status":"Operational",
+    "Name":"Padre Palou Community",
+    "Address":"3400 16th St, San Francisco, CA 94114",
+    "TotalUnits":18,
+    "AffordableUnits":18,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Castro/Upper Market",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416045,37.782491 ]
+    },
+    "properties": {
+    "ID":1219,
+    "Status":"Operational",
+    "Name":"421 Turk",
+    "Address":"421 Turk St, San Francisco, CA 94102",
+    "TotalUnits":29,
+    "AffordableUnits":29,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc.",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411277,37.784162 ]
+    },
+    "properties": {
+    "ID":161,
+    "Status":"Operational",
+    "Name":"Ritz Hotel",
+    "Address":"216 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":90,
+    "AffordableUnits":90,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.454397,37.710405 ]
+    },
+    "properties": {
+    "ID":1033,
+    "Status":"Operational",
+    "Name":"MAC's Children and Family Services",
+    "Address":"2168 Cayuga Ave, San Francisco, CA 94112",
+    "TotalUnits":3,
+    "AffordableUnits":3,
+    "AffordableBeds":0,
+    "Sponsor":"Mac's Children And Family Services, Inc.",
+    "Neighborhood":"Outer Mission",
+    "SupervisorDistrict":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422092,37.766195 ]
+    },
+    "properties": {
+    "ID":268,
+    "Status":"Operational",
+    "Name":"Apollo Hotel",
+    "Address":"420 Valencia St, San Francisco, CA 94103",
+    "TotalUnits":80,
+    "AffordableUnits":80,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.391504,37.77334 ]
+    },
+    "properties": {
+    "ID":1826,
+    "Status":"Operational",
+    "Name":"1180 4th",
+    "Address":"1180 4th St, San Francisco, CA 94158",
+    "TotalUnits":150,
+    "AffordableUnits":149,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Mission Bay",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411939,37.796974 ]
+    },
+    "properties": {
+    "ID":87,
+    "Status":"Operational",
+    "Name":"Lady Shaw",
+    "Address":"1483 Mason St, San Francisco, CA 94133",
+    "TotalUnits":70,
+    "AffordableUnits":70,
+    "AffordableBeds":0,
+    "Sponsor":"Self Help For The Elderly",
+    "Neighborhood":"Nob Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413801,37.783731 ]
+    },
+    "properties": {
+    "ID":255,
+    "Status":"Operational",
+    "Name":"375 Eddy ",
+    "Address":"375 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":35,
+    "AffordableUnits":35,
+    "AffordableBeds":0,
+    "Sponsor":"Indochinese Housing Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.440067,37.778072 ]
+    },
+    "properties": {
+    "ID":1550,
+    "Status":"Operational",
+    "Name":"Zygmunt Arendt House",
+    "Address":"850 Broderick St, San Francisco, CA 94115",
+    "TotalUnits":47,
+    "AffordableUnits":45,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425221,37.763153 ]
+    },
+    "properties": {
+    "ID":1065,
+    "Status":"Operational",
+    "Name":"Hazel Betsey",
+    "Address":"3554 17th St, San Francisco, CA 94110",
+    "TotalUnits":9,
+    "AffordableUnits":9,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423308,37.775835 ]
+    },
+    "properties": {
+    "ID":1073,
+    "Status":"Operational",
+    "Name":"Fell Street Apartments",
+    "Address":"333 Fell St, San Francisco, CA 94102",
+    "TotalUnits":82,
+    "AffordableUnits":82,
+    "AffordableBeds":0,
+    "Sponsor":"Bridge Housing",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403524,37.724946 ]
+    },
+    "properties": {
+    "ID":148,
+    "Status":"Operational",
+    "Name":"Woolsey Apartments",
+    "Address":"195 Woolsey St, San Francisco, CA 94134",
+    "TotalUnits":10,
+    "AffordableUnits":10,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Portola",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.389598,37.737577 ]
+    },
+    "properties": {
+    "ID":1046,
+    "Status":"Operational",
+    "Name":"Bayview Commons",
+    "Address":"4445 3rd St, San Francisco, CA 94124",
+    "TotalUnits":30,
+    "AffordableUnits":30,
+    "AffordableBeds":0,
+    "Sponsor":"San Francisco Housing Development Corporation",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413646,37.715058 ]
+    },
+    "properties": {
+    "ID":517,
+    "Status":"Operational",
+    "Name":"John King Senior Community",
+    "Address":"500 Raymond Ave, San Francisco, CA 94134",
+    "TotalUnits":91,
+    "AffordableUnits":91,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"McLaren Park",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399726,37.783094 ]
+    },
+    "properties": {
+    "ID":367,
+    "Status":"Operational",
+    "Name":"Mendelsohn House",
+    "Address":"737 Folsom St, San Francisco, CA 94107",
+    "TotalUnits":189,
+    "AffordableUnits":189,
+    "AffordableBeds":0,
+    "Sponsor":"TODCO Group",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433721,37.771909 ]
+    },
+    "properties": {
+    "ID":168,
+    "Status":"Operational",
+    "Name":"Pierce Street Apartments",
+    "Address":"220 Pierce St, San Francisco, CA 94117",
+    "TotalUnits":8,
+    "AffordableUnits":8,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Haight Ashbury",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414984,37.786448 ]
+    },
+    "properties": {
+    "ID":2064,
+    "Status":"Operational",
+    "Name":"709 Geary",
+    "Address":"709 Geary St, San Francisco, CA 94109",
+    "TotalUnits":35,
+    "AffordableUnits":30,
+    "AffordableBeds":0,
+    "Sponsor":"Veritas",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407921,37.752929 ]
+    },
+    "properties": {
+    "ID":204,
+    "Status":"Operational",
+    "Name":"2782 24th",
+    "Address":"2782 24th St, San Francisco, CA 94110",
+    "TotalUnits":3,
+    "AffordableUnits":3,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.401661,37.786629 ]
+    },
+    "properties": {
+    "ID":1095,
+    "Status":"Operational",
+    "Name":"Paramount",
+    "Address":"680 Mission St, San Francisco, CA 94105",
+    "TotalUnits":486,
+    "AffordableUnits":99,
+    "AffordableBeds":0,
+    "Sponsor":"Third & Mission Associates, LLC",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435307,37.781111 ]
+    },
+    "properties": {
+    "ID":1231,
+    "Status":"Operational",
+    "Name":"Martin Luther King-Marcus Garvey Square Cooperative Apartments",
+    "Address":"1680 Eddy St, San Francisco, CA 94115",
+    "TotalUnits":211,
+    "AffordableUnits":211,
+    "AffordableBeds":0,
+    "Sponsor":"Martin Luther King-Marcus Garvey Square Cooperative Apartments, INC.",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409483,37.784803 ]
+    },
+    "properties": {
+    "ID":1542,
+    "Status":"Operational",
+    "Name":"149 Mason Street Apartments",
+    "Address":"149 Mason St, San Francisco, CA 94102",
+    "TotalUnits":56,
+    "AffordableUnits":56,
+    "AffordableBeds":0,
+    "Sponsor":"Glide",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393941,37.781458 ]
+    },
+    "properties": {
+    "ID":19,
+    "Status":"Operational",
+    "Name":"Gran Oriente Filipino",
+    "Address":"106 South Park, San Francisco, CA 94107",
+    "TotalUnits":24,
+    "AffordableUnits":24,
+    "AffordableBeds":0,
+    "Sponsor":"Gran Oriente Filipino",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412607,37.785786 ]
+    },
+    "properties": {
+    "ID":1190,
+    "Status":"Operational",
+    "Name":"O'Farrell Towers",
+    "Address":"477 O'Farrell St, San Francisco, CA 94102",
+    "TotalUnits":101,
+    "AffordableUnits":101,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412326,37.782186 ]
+    },
+    "properties": {
+    "ID":1135,
+    "Status":"Operational",
+    "Name":"111 Jones",
+    "Address":"111 Jones St, San Francisco, CA 94102",
+    "TotalUnits":108,
+    "AffordableUnits":108,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3931,37.788904 ]
+    },
+    "properties": {
+    "ID":1849,
+    "Status":"Operational",
+    "Name":"280 Beale",
+    "Address":"280 Beale St, San Francisco, CA 94105",
+    "TotalUnits":70,
+    "AffordableUnits":69,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.389427,37.781418 ]
+    },
+    "properties": {
+    "ID":1136,
+    "Status":"Operational",
+    "Name":"Steamboat Point (Parcel K)",
+    "Address":"49 Townsend St, San Francisco, CA 94107",
+    "TotalUnits":108,
+    "AffordableUnits":108,
+    "AffordableBeds":0,
+    "Sponsor":"Bridge Housing",
+    "Neighborhood":"Mission Bay",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417076,37.749992 ]
+    },
+    "properties": {
+    "ID":13,
+    "Status":"Operational",
+    "Name":"Abel Gonzales Apartments",
+    "Address":"1045 Capp St, San Francisco, CA 94110",
+    "TotalUnits":30,
+    "AffordableUnits":29,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418267,37.78603 ]
+    },
+    "properties": {
+    "ID":1228,
+    "Status":"Operational",
+    "Name":"Hartland Hotel",
+    "Address":"909 Geary St, San Francisco, CA 94109",
+    "TotalUnits":135,
+    "AffordableUnits":135,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Housing Clinic",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416389,37.752819 ]
+    },
+    "properties": {
+    "ID":1138,
+    "Status":"Operational",
+    "Name":"Progress Apartments",
+    "Address":"1272 South Van Ness Ave, San Francisco, CA 94110",
+    "TotalUnits":12,
+    "AffordableUnits":11,
+    "AffordableBeds":0,
+    "Sponsor":"Progress Foundation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.396478,37.751054 ]
+    },
+    "properties": {
+    "ID":43,
+    "Status":"Operational",
+    "Name":"Connecticut St Court",
+    "Address":"1206 Connecticut St, San Francisco, CA 94107",
+    "TotalUnits":10,
+    "AffordableUnits":10,
+    "AffordableBeds":0,
+    "Sponsor":"Asian Neighborhood Design",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418395,37.783263 ]
+    },
+    "properties": {
+    "ID":1440,
+    "Status":"Operational",
+    "Name":"Arnett Watson Apartments",
+    "Address":"650 Eddy St, San Francisco, CA 94109",
+    "TotalUnits":83,
+    "AffordableUnits":83,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418291,37.785181 ]
+    },
+    "properties": {
+    "ID":1080,
+    "Status":"Operational",
+    "Name":"Jordan Apartments",
+    "Address":"820 O'Farrell St, San Francisco, CA 94109",
+    "TotalUnits":55,
+    "AffordableUnits":54,
+    "AffordableBeds":0,
+    "Sponsor":"Conard House",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420609,37.764409 ]
+    },
+    "properties": {
+    "ID":250,
+    "Status":"Operational",
+    "Name":"Dunleavy Plaza",
+    "Address":"36 Hoff St, San Francisco, CA 94110",
+    "TotalUnits":49,
+    "AffordableUnits":49,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414492,37.784554 ]
+    },
+    "properties": {
+    "ID":261,
+    "Status":"Operational",
+    "Name":"Aarti Hotel",
+    "Address":"391 Leavenworth St, San Francisco, CA 94109",
+    "TotalUnits":40,
+    "AffordableUnits":40,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.453058,37.801983 ]
+    },
+    "properties": {
+    "ID":11,
+    "Status":"Operational",
+    "Name":"Veterans Academy",
+    "Address":"1030 Girard Rd, San Francisco, CA 94129",
+    "TotalUnits":108,
+    "AffordableUnits":100,
+    "AffordableBeds":0,
+    "Sponsor":"Swords To Plowshares",
+    "Neighborhood":"Presidio",
+    "SupervisorDistrict":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.443584,37.777194 ]
+    },
+    "properties": {
+    "ID":145,
+    "Status":"Operational",
+    "Name":"1912 McAllister",
+    "Address":"1912 McAllister St, San Francisco, CA 94115",
+    "TotalUnits":2,
+    "AffordableUnits":2,
+    "AffordableBeds":0,
+    "Sponsor":"Westside Community Services",
+    "Neighborhood":"Lone Mountain/USF",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404208,37.79448 ]
+    },
+    "properties": {
+    "ID":1185,
+    "Status":"Operational",
+    "Name":"665 Clay",
+    "Address":"665 Clay St, San Francisco, CA 94111",
+    "TotalUnits":25,
+    "AffordableUnits":25,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Chinatown",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.390544,37.716631 ]
+    },
+    "properties": {
+    "ID":2074,
+    "Status":"Operational",
+    "Name":"Candlestick Heights",
+    "Address":"833 Jamestown Ave, San Francisco, CA 94124",
+    "TotalUnits":196,
+    "AffordableUnits":196,
+    "AffordableBeds":0,
+    "Sponsor":"New Jamestown, LP",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42573,37.782332 ]
+    },
+    "properties": {
+    "ID":1068,
+    "Status":"Operational",
+    "Name":"Eddy Street Apartments",
+    "Address":"1096 Eddy St, San Francisco, CA 94109",
+    "TotalUnits":21,
+    "AffordableUnits":21,
+    "AffordableBeds":0,
+    "Sponsor":"Progress Foundation",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421716,37.762278 ]
+    },
+    "properties": {
+    "ID":352,
+    "Status":"Operational",
+    "Name":"Alcantara Court",
+    "Address":"670 Valencia St, San Francisco, CA 94110",
+    "TotalUnits":50,
+    "AffordableUnits":50,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.443281,37.774243 ]
+    },
+    "properties": {
+    "ID":97,
+    "Status":"Operational",
+    "Name":"Hamilton Family Transitional Program",
+    "Address":"1631 Hayes St, San Francisco, CA 94117",
+    "TotalUnits":20,
+    "AffordableUnits":20,
+    "AffordableBeds":0,
+    "Sponsor":"Hamilton Family Center",
+    "Neighborhood":"Lone Mountain/USF",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424738,37.787232 ]
+    },
+    "properties": {
+    "ID":1045,
+    "Status":"Operational",
+    "Name":"Sutter Apartments",
+    "Address":"1480 Sutter St, San Francisco, CA 94109",
+    "TotalUnits":68,
+    "AffordableUnits":67,
+    "AffordableBeds":0,
+    "Sponsor":"Sutter Gough, LP",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402084,37.782678 ]
+    },
+    "properties": {
+    "ID":180,
+    "Status":"Operational",
+    "Name":"Woolf House III",
+    "Address":"240 4th St, San Francisco, CA 94103",
+    "TotalUnits":30,
+    "AffordableUnits":30,
+    "AffordableBeds":0,
+    "Sponsor":"TODCO Group",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434866,37.781167 ]
+    },
+    "properties": {
+    "ID":1049,
+    "Status":"Operational",
+    "Name":"Positive Match",
+    "Address":"1652 Eddy St, San Francisco, CA 94115",
+    "TotalUnits":7,
+    "AffordableUnits":7,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417463,37.78433 ]
+    },
+    "properties": {
+    "ID":1437,
+    "Status":"Operational",
+    "Name":"Hotel Essex",
+    "Address":"684 Ellis St, San Francisco, CA 94109",
+    "TotalUnits":84,
+    "AffordableUnits":84,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409106,37.785395 ]
+    },
+    "properties": {
+    "ID":1192,
+    "Status":"Operational",
+    "Name":"Maria Manor",
+    "Address":"174 Ellis St, San Francisco, CA 94102",
+    "TotalUnits":119,
+    "AffordableUnits":118,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416365,37.781608 ]
+    },
+    "properties": {
+    "ID":1619,
+    "Status":"Operational",
+    "Name":"Madonna Residence",
+    "Address":"350 Golden Gate Ave, San Francisco, CA 94102",
+    "TotalUnits":69,
+    "AffordableUnits":69,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414671,37.78362 ]
+    },
+    "properties": {
+    "ID":271,
+    "Status":"Operational",
+    "Name":"Eddy Street Apartments (CATS)",
+    "Address":"425 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":25,
+    "AffordableUnits":25,
+    "AffordableBeds":0,
+    "Sponsor":"Community Awareness & Treatment Services, Inc.",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412923,37.786711 ]
+    },
+    "properties": {
+    "ID":325,
+    "Status":"Operational",
+    "Name":"St. Claire Residence",
+    "Address":"585 Geary St, San Francisco, CA 94102",
+    "TotalUnits":40,
+    "AffordableUnits":40,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406405,37.712173 ]
+    },
+    "properties": {
+    "ID":1015,
+    "Status":"Operational",
+    "Name":"Leland House",
+    "Address":"141 Leland Ave, San Francisco, CA 94134",
+    "TotalUnits":45,
+    "AffordableUnits":45,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Visitacion Valley",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417535,37.764826 ]
+    },
+    "properties": {
+    "ID":1454,
+    "Status":"Operational",
+    "Name":"Mission Hotel",
+    "Address":"520 South Van Ness Ave, San Francisco, CA 94110",
+    "TotalUnits":248,
+    "AffordableUnits":248,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Housing Clinic",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409367,37.77793 ]
+    },
+    "properties": {
+    "ID":1072,
+    "Status":"Operational",
+    "Name":"1101 Howard",
+    "Address":"1101 Howard St, San Francisco, CA 94103",
+    "TotalUnits":34,
+    "AffordableUnits":34,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441288,37.774496 ]
+    },
+    "properties": {
+    "ID":3,
+    "Status":"Operational",
+    "Name":"Mercy Family Plaza",
+    "Address":"1509 Hayes St, San Francisco, CA 94117",
+    "TotalUnits":36,
+    "AffordableUnits":36,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Lone Mountain/USF",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.392322,37.776697 ]
+    },
+    "properties": {
+    "ID":1093,
+    "Status":"Operational",
+    "Name":"Rich Sorro Commons",
+    "Address":"150 Berry St, San Francisco, CA 94107",
+    "TotalUnits":100,
+    "AffordableUnits":100,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission Bay",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424196,37.764364 ]
+    },
+    "properties": {
+    "ID":1183,
+    "Status":"Operational",
+    "Name":"Cameo House",
+    "Address":"424 Guerrero St, San Francisco, CA 94110",
+    "TotalUnits":11,
+    "AffordableUnits":11,
+    "AffordableBeds":0,
+    "Sponsor":"Center on Juvenile & Criminal Justice",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408919,37.777677 ]
+    },
+    "properties": {
+    "ID":1331,
+    "Status":"Operational",
+    "Name":"Westbrook Plaza",
+    "Address":"227 7th St, San Francisco, CA 94103",
+    "TotalUnits":49,
+    "AffordableUnits":48,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California / Soma Health Center",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399052,37.80101 ]
+    },
+    "properties": {
+    "ID":1448,
+    "Status":"Operational",
+    "Name":"Embarcadero Triangle (Parcel J)",
+    "Address":"600 The Embarcadero, San Francisco, CA 94111",
+    "TotalUnits":177,
+    "AffordableUnits":177,
+    "AffordableBeds":0,
+    "Sponsor":"Delancey Street Foundation",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409742,37.78171 ]
+    },
+    "properties": {
+    "ID":1235,
+    "Status":"Operational",
+    "Name":"Seneca Hotel",
+    "Address":"32 6th St, San Francisco, CA 94103",
+    "TotalUnits":202,
+    "AffordableUnits":88,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Housing Clinic",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413928,37.805641 ]
+    },
+    "properties": {
+    "ID":880,
+    "Status":"Operational",
+    "Name":"The Arc Apartments",
+    "Address":"416 Bay St, San Francisco, CA 94133",
+    "TotalUnits":8,
+    "AffordableUnits":8,
+    "AffordableBeds":0,
+    "Sponsor":"The Arc",
+    "Neighborhood":"North Beach",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413972,37.787536 ]
+    },
+    "properties": {
+    "ID":368,
+    "Status":"Operational",
+    "Name":"Tower 737 (aka Post St Towers)",
+    "Address":"737 Post St, San Francisco, CA 94109",
+    "TotalUnits":248,
+    "AffordableUnits":49,
+    "AffordableBeds":0,
+    "Sponsor":"Sequoia Equities",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432656,37.779537 ]
+    },
+    "properties": {
+    "ID":63,
+    "Status":"Operational",
+    "Name":"Peter Claver Community",
+    "Address":"1340 Golden Gate Ave, San Francisco, CA 94115",
+    "TotalUnits":32,
+    "AffordableUnits":32,
+    "AffordableBeds":0,
+    "Sponsor":"Catholic Charities",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420743,37.765047 ]
+    },
+    "properties": {
+    "ID":216,
+    "Status":"Operational",
+    "Name":"Altamont Hotel",
+    "Address":"3048 16th St, San Francisco, CA 94103",
+    "TotalUnits":88,
+    "AffordableUnits":88,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41849,37.785044 ]
+    },
+    "properties": {
+    "ID":384,
+    "Status":"Operational",
+    "Name":"Iroquois Hotel",
+    "Address":"835 O'Farrell St, San Francisco, CA 94109",
+    "TotalUnits":74,
+    "AffordableUnits":74,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.454101,37.723518 ]
+    },
+    "properties": {
+    "ID":1620,
+    "Status":"Operational",
+    "Name":"1100 Ocean",
+    "Address":"1100 Ocean Ave, San Francisco, CA 94112",
+    "TotalUnits":71,
+    "AffordableUnits":70,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"West of Twin Peaks",
+    "SupervisorDistrict":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420784,37.77468 ]
+    },
+    "properties": {
+    "ID":1246,
+    "Status":"Operational",
+    "Name":"Derek Silva Community",
+    "Address":"20 Franklin St, San Francisco, CA 94102",
+    "TotalUnits":68,
+    "AffordableUnits":68,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.374154,37.824064 ]
+    },
+    "properties": {
+    "ID":1151,
+    "Status":"Operational",
+    "Name":"TIHDI: Female Offender Treatment and Education Program",
+    "Address":"1440 Chinook Ct, San Francisco, CA 94130",
+    "TotalUnits":6,
+    "AffordableUnits":6,
+    "AffordableBeds":0,
+    "Sponsor":"HealthRight360",
+    "Neighborhood":"Treasure Island",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.457717,37.781223 ]
+    },
+    "properties": {
+    "ID":1317,
+    "Status":"Operational",
+    "Name":"The Coronet",
+    "Address":"3595 Geary Blvd, San Francisco, CA 94118",
+    "TotalUnits":150,
+    "AffordableUnits":148,
+    "AffordableBeds":0,
+    "Sponsor":"Bridge Housing",
+    "Neighborhood":"Lone Mountain/USF",
+    "SupervisorDistrict":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424305,37.774452 ]
+    },
+    "properties": {
+    "ID":1862,
+    "Status":"Operational",
+    "Name":"Octavia Court",
+    "Address":"261 Octavia St, San Francisco, CA 94102",
+    "TotalUnits":15,
+    "AffordableUnits":15,
+    "AffordableBeds":0,
+    "Sponsor":"West Bay Housing Corporation / Satellite Housing",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411498,37.784134 ]
+    },
+    "properties": {
+    "ID":1037,
+    "Status":"Operational",
+    "Name":"Alexander Residence",
+    "Address":"230 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":179,
+    "AffordableUnits":178,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403379,37.781981 ]
+    },
+    "properties": {
+    "ID":1031,
+    "Status":"Operational",
+    "Name":"Eugene Coleman Senior Community",
+    "Address":"328 Tehama St, San Francisco, CA 94103",
+    "TotalUnits":85,
+    "AffordableUnits":85,
+    "AffordableBeds":0,
+    "Sponsor":"TODCO Group",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416942,37.7911 ]
+    },
+    "properties": {
+    "ID":69,
+    "Status":"Operational",
+    "Name":"1370 California Apartments",
+    "Address":"1370 California St, San Francisco, CA 94109",
+    "TotalUnits":49,
+    "AffordableUnits":49,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Nob Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423262,37.795819 ]
+    },
+    "properties": {
+    "ID":1191,
+    "Status":"Operational",
+    "Name":"Notre Dame Apartments",
+    "Address":"1590 Broadway, San Francisco, CA 94109",
+    "TotalUnits":204,
+    "AffordableUnits":202,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Russian Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393267,37.72736 ]
+    },
+    "properties": {
+    "ID":489,
+    "Status":"Operational",
+    "Name":"Geraldine Johnson Manor",
+    "Address":"5545 3rd St, San Francisco, CA 94124",
+    "TotalUnits":54,
+    "AffordableUnits":54,
+    "AffordableBeds":0,
+    "Sponsor":"Bayview Senior Housing (Bridge Housing / San Francisco Housing Development Corporation)",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410377,37.736843 ]
+    },
+    "properties": {
+    "ID":5,
+    "Status":"Operational",
+    "Name":"Market Heights",
+    "Address":"1000 Tompkins Ave, San Francisco, CA 94110",
+    "TotalUnits":46,
+    "AffordableUnits":46,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Bernal Heights",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414325,37.782711 ]
+    },
+    "properties": {
+    "ID":1247,
+    "Status":"Operational",
+    "Name":"Curry Senior Center Apartments",
+    "Address":"315 Turk St, San Francisco, CA 94102",
+    "TotalUnits":14,
+    "AffordableUnits":14,
+    "AffordableBeds":0,
+    "Sponsor":"Curry Senior Center",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407824,37.777522 ]
+    },
+    "properties": {
+    "ID":355,
+    "Status":"Operational",
+    "Name":"70 Moss",
+    "Address":"70 Moss St, San Francisco, CA 94103",
+    "TotalUnits":5,
+    "AffordableUnits":5,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40968,37.780142 ]
+    },
+    "properties": {
+    "ID":1003,
+    "Status":"Operational",
+    "Name":"Soma Residences",
+    "Address":"1045 Mission St, San Francisco, CA 94103",
+    "TotalUnits":258,
+    "AffordableUnits":55,
+    "AffordableBeds":0,
+    "Sponsor":"Emerald Fund, Inc.",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426943,37.786841 ]
+    },
+    "properties": {
+    "ID":1877,
+    "Status":"Operational",
+    "Name":"Nihonmachi Terrace",
+    "Address":"1615 Sutter St, San Francisco, CA 94109",
+    "TotalUnits":245,
+    "AffordableUnits":243,
+    "AffordableBeds":0,
+    "Sponsor":"Japanese American Religious Federation",
+    "Neighborhood":"Japantown",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412444,37.754157 ]
+    },
+    "properties": {
+    "ID":214,
+    "Status":"Operational",
+    "Name":"3019 23rd ",
+    "Address":"3019 23rd St, San Francisco, CA 94110",
+    "TotalUnits":6,
+    "AffordableUnits":5,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408652,37.780244 ]
+    },
+    "properties": {
+    "ID":305,
+    "Status":"Operational",
+    "Name":"518 Minna",
+    "Address":"518 Minna St, San Francisco, CA 94103",
+    "TotalUnits":24,
+    "AffordableUnits":24,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc.",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.374699,37.826609 ]
+    },
+    "properties": {
+    "ID":1197,
+    "Status":"Operational",
+    "Name":"TIHDI: Island Bay Homes",
+    "Address":"1411 Flounder Ct, San Francisco, CA 94130",
+    "TotalUnits":66,
+    "AffordableUnits":66,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Treasure Island",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40944,37.784589 ]
+    },
+    "properties": {
+    "ID":2001,
+    "Status":"Operational",
+    "Name":"125 Mason",
+    "Address":"125 Mason St, San Francisco, CA 94102",
+    "TotalUnits":81,
+    "AffordableUnits":81,
+    "AffordableBeds":0,
+    "Sponsor":"Glide",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399387,37.762358 ]
+    },
+    "properties": {
+    "ID":119,
+    "Status":"Operational",
+    "Name":"Goodman 2 Art Complex",
+    "Address":"1695 18th St, San Francisco, CA 94107",
+    "TotalUnits":29,
+    "AffordableUnits":23,
+    "AffordableBeds":0,
+    "Sponsor":"Artspace Development Corporation",
+    "Neighborhood":"Potrero Hill",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433707,37.726255 ]
+    },
+    "properties": {
+    "ID":1600,
+    "Status":"Operational",
+    "Name":"Excelsior Teen Center",
+    "Address":"4466 Mission St, San Francisco, CA 94112",
+    "TotalUnits":1,
+    "AffordableUnits":1,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Outer Mission",
+    "SupervisorDistrict":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.442718,37.770608 ]
+    },
+    "properties": {
+    "ID":1249,
+    "Status":"Operational",
+    "Name":"Buena Vista Terrace",
+    "Address":"1250 Haight St, San Francisco, CA 94117",
+    "TotalUnits":40,
+    "AffordableUnits":40,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Haight Ashbury",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413974,37.783709 ]
+    },
+    "properties": {
+    "ID":260,
+    "Status":"Operational",
+    "Name":"Hamlin Hotel",
+    "Address":"385 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":69,
+    "AffordableUnits":69,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412898,37.781088 ]
+    },
+    "properties": {
+    "ID":276,
+    "Status":"Operational",
+    "Name":"Civic Center Residence",
+    "Address":"44 McAllister St, San Francisco, CA 94102",
+    "TotalUnits":211,
+    "AffordableUnits":211,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40958,37.758292 ]
+    },
+    "properties": {
+    "ID":171,
+    "Status":"Operational",
+    "Name":"Women's Hope",
+    "Address":"2261 Bryant St, San Francisco, CA 94110",
+    "TotalUnits":16,
+    "AffordableUnits":16,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation / HealthRight360",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420243,37.761843 ]
+    },
+    "properties": {
+    "ID":240,
+    "Status":"Operational",
+    "Name":"3434 18th",
+    "Address":"3434 18th St, San Francisco, CA 94110",
+    "TotalUnits":8,
+    "AffordableUnits":8,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422603,37.774011 ]
+    },
+    "properties": {
+    "ID":25,
+    "Status":"Operational",
+    "Name":"Clara House",
+    "Address":"111 Page St, San Francisco, CA 94102",
+    "TotalUnits":12,
+    "AffordableUnits":12,
+    "AffordableBeds":0,
+    "Sponsor":"Compass Community Services",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413138,37.781057 ]
+    },
+    "properties": {
+    "ID":316,
+    "Status":"Operational",
+    "Name":"Dorothy Day Community",
+    "Address":"54 McAllister St, San Francisco, CA 94102",
+    "TotalUnits":99,
+    "AffordableUnits":99,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419366,37.762497 ]
+    },
+    "properties": {
+    "ID":160,
+    "Status":"Operational",
+    "Name":"Leandro Soto Apartments",
+    "Address":"2155 Mission St, San Francisco, CA 94110",
+    "TotalUnits":48,
+    "AffordableUnits":48,
+    "AffordableBeds":0,
+    "Sponsor":"OBECA / Arriba Juntos",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414877,37.784551 ]
+    },
+    "properties": {
+    "ID":306,
+    "Status":"Operational",
+    "Name":"Senator Residence",
+    "Address":"519 Ellis St, San Francisco, CA 94109",
+    "TotalUnits":87,
+    "AffordableUnits":86,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415953,37.739376 ]
+    },
+    "properties": {
+    "ID":253,
+    "Status":"Operational",
+    "Name":"Moultrie House",
+    "Address":"374 Moultrie St, San Francisco, CA 94110",
+    "TotalUnits":9,
+    "AffordableUnits":9,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Bernal Heights",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.439957,37.782318 ]
+    },
+    "properties": {
+    "ID":1866,
+    "Status":"Operational",
+    "Name":"Tabernacle Vista Apartments",
+    "Address":"2139 O'Farrell St, San Francisco, CA 94115",
+    "TotalUnits":21,
+    "AffordableUnits":21,
+    "AffordableBeds":0,
+    "Sponsor":"Tabernacle Community Development Corporation",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412674,37.783985 ]
+    },
+    "properties": {
+    "ID":1395,
+    "Status":"Operational",
+    "Name":"Herald Hotel Apartments",
+    "Address":"302 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":73,
+    "AffordableUnits":72,
+    "AffordableBeds":0,
+    "Sponsor":"Bristol Equity Capital, Inc.",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.458487,37.723606 ]
+    },
+    "properties": {
+    "ID":197,
+    "Status":"Operational",
+    "Name":"Swords to Plowshares (De Montfort)",
+    "Address":"27 De Montfort Ave, San Francisco, CA 94112",
+    "TotalUnits":15,
+    "AffordableUnits":15,
+    "AffordableBeds":0,
+    "Sponsor":"Swords To Plowshares",
+    "Neighborhood":"Oceanview/Merced/Ingleside",
+    "SupervisorDistrict":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449763,37.770554 ]
+    },
+    "properties": {
+    "ID":1082,
+    "Status":"Operational",
+    "Name":"1761-1765 Page",
+    "Address":"1761 Page St, San Francisco, CA 94117",
+    "TotalUnits":12,
+    "AffordableUnits":12,
+    "AffordableBeds":0,
+    "Sponsor":"Baker Places",
+    "Neighborhood":"Haight Ashbury",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434685,37.780123 ]
+    },
+    "properties": {
+    "ID":1005,
+    "Status":"Operational",
+    "Name":"Laurel Gardens Apartments",
+    "Address":"1555 Turk St, San Francisco, CA 94115",
+    "TotalUnits":52,
+    "AffordableUnits":51,
+    "AffordableBeds":0,
+    "Sponsor":"Bethel African Methodist Episcopal Church",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41334,37.7839 ]
+    },
+    "properties": {
+    "ID":237,
+    "Status":"Operational",
+    "Name":"The Nathan Building",
+    "Address":"340 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":82,
+    "AffordableUnits":82,
+    "AffordableBeds":0,
+    "Sponsor":"Indochinese Housing Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.392388,37.791512 ]
+    },
+    "properties": {
+    "ID":1854,
+    "Status":"Operational",
+    "Name":"Rincon Center",
+    "Address":"88 Howard St, San Francisco, CA 94105",
+    "TotalUnits":320,
+    "AffordableUnits":76,
+    "AffordableBeds":0,
+    "Sponsor":"Carmel Partners, Inc (BRE/Rincon, LLC)",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423562,37.708986 ]
+    },
+    "properties": {
+    "ID":1188,
+    "Status":"Operational",
+    "Name":"Carter Terrace",
+    "Address":"530 Carter St, San Francisco, CA 94134",
+    "TotalUnits":101,
+    "AffordableUnits":101,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Excelsior",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.38837,37.781858 ]
+    },
+    "properties": {
+    "ID":1880,
+    "Status":"Operational",
+    "Name":"South Beach Marina Apartments",
+    "Address":"2 Townsend St, San Francisco, CA 94107",
+    "TotalUnits":414,
+    "AffordableUnits":83,
+    "AffordableBeds":0,
+    "Sponsor":"South Beach Marina, Inc.",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.44175,37.715411 ]
+    },
+    "properties": {
+    "ID":961,
+    "Status":"Operational",
+    "Name":"Crocker Amazon Senior Apartments",
+    "Address":"5199 Mission St, San Francisco, CA 94112",
+    "TotalUnits":38,
+    "AffordableUnits":38,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Excelsior",
+    "SupervisorDistrict":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412102,37.783106 ]
+    },
+    "properties": {
+    "ID":1047,
+    "Status":"Operational",
+    "Name":"Antonia Manor",
+    "Address":"180 Turk St, San Francisco, CA 94102",
+    "TotalUnits":133,
+    "AffordableUnits":132,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410328,37.784282 ]
+    },
+    "properties": {
+    "ID":109,
+    "Status":"Operational",
+    "Name":"William Penn Hotel",
+    "Address":"160 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":91,
+    "AffordableUnits":91,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40631,37.751817 ]
+    },
+    "properties": {
+    "ID":1069,
+    "Status":"Operational",
+    "Name":"Good Samaritan Apartments",
+    "Address":"1290 Potrero Ave, San Francisco, CA 94110",
+    "TotalUnits":20,
+    "AffordableUnits":20,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413959,37.783822 ]
+    },
+    "properties": {
+    "ID":257,
+    "Status":"Operational",
+    "Name":"Cadillac Hotel",
+    "Address":"380 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":158,
+    "AffordableUnits":158,
+    "AffordableBeds":0,
+    "Sponsor":"Reality House West",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407599,37.780005 ]
+    },
+    "properties": {
+    "ID":1245,
+    "Status":"Operational",
+    "Name":"The Dudley Apartments",
+    "Address":"172 6th St, San Francisco, CA 94103",
+    "TotalUnits":75,
+    "AffordableUnits":74,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.427493,37.782823 ]
+    },
+    "properties": {
+    "ID":2076,
+    "Status":"Operational",
+    "Name":"Western Park Apartments",
+    "Address":"1280 Laguna St, San Francisco, CA 94115",
+    "TotalUnits":182,
+    "AffordableUnits":182,
+    "AffordableBeds":0,
+    "Sponsor":"Northern California Presbyterian Homes & Services",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412578,37.710243 ]
+    },
+    "properties": {
+    "ID":213,
+    "Status":"Operational",
+    "Name":"Heritage Homes",
+    "Address":"243 Rey St, San Francisco, CA 94134",
+    "TotalUnits":148,
+    "AffordableUnits":148,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Visitacion Valley",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426669,37.765873 ]
+    },
+    "properties": {
+    "ID":167,
+    "Status":"Operational",
+    "Name":"Richard M. Cohen Residence",
+    "Address":"220 Dolores St, San Francisco, CA 94114",
+    "TotalUnits":0,
+    "AffordableUnits":8,
+    "AffordableBeds":0,
+    "Sponsor":"Dolores Street Community Services",
+    "Neighborhood":"Castro/Upper Market",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.392504,37.735756 ]
+    },
+    "properties": {
+    "ID":121,
+    "Status":"Operational",
+    "Name":"All Hallows Community",
+    "Address":"1711 Oakdale Ave, San Francisco, CA 94124",
+    "TotalUnits":45,
+    "AffordableUnits":45,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413965,37.775551 ]
+    },
+    "properties": {
+    "ID":1139,
+    "Status":"Operational",
+    "Name":"El Dorado Hotel",
+    "Address":"150 9th St, San Francisco, CA 94103",
+    "TotalUnits":57,
+    "AffordableUnits":57,
+    "AffordableBeds":0,
+    "Sponsor":"Conard House",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410663,37.779366 ]
+    },
+    "properties": {
+    "ID":1012,
+    "Status":"Operational",
+    "Name":"Hotel Isabel",
+    "Address":"1091 Mission St, San Francisco, CA 94103",
+    "TotalUnits":75,
+    "AffordableUnits":75,
+    "AffordableBeds":0,
+    "Sponsor":"TODCO Group",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415552,37.783509 ]
+    },
+    "properties": {
+    "ID":291,
+    "Status":"Operational",
+    "Name":"Cameo Apartments",
+    "Address":"481 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":31,
+    "AffordableUnits":31,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402147,37.782037 ]
+    },
+    "properties": {
+    "ID":1840,
+    "Status":"Operational",
+    "Name":"Ceatrice Polite Apartments",
+    "Address":"321 Clementina St, San Francisco, CA 94103",
+    "TotalUnits":91,
+    "AffordableUnits":91,
+    "AffordableBeds":0,
+    "Sponsor":"TODCO Group",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410379,37.782277 ]
+    },
+    "properties": {
+    "ID":6,
+    "Status":"Operational",
+    "Name":"San Cristina",
+    "Address":"1000 Market St, San Francisco, CA 94102",
+    "TotalUnits":58,
+    "AffordableUnits":58,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409991,37.784214 ]
+    },
+    "properties": {
+    "ID":1027,
+    "Status":"Operational",
+    "Name":"West Hotel",
+    "Address":"141 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":107,
+    "AffordableUnits":107,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411321,37.794601 ]
+    },
+    "properties": {
+    "ID":44,
+    "Status":"Operational",
+    "Name":"Consorcia Apartments",
+    "Address":"1204 Mason St, San Francisco, CA 94133",
+    "TotalUnits":24,
+    "AffordableUnits":24,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Chinatown",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408935,37.781068 ]
+    },
+    "properties": {
+    "ID":1044,
+    "Status":"Operational",
+    "Name":"Bayanihan House",
+    "Address":"88 6th St, San Francisco, CA 94103",
+    "TotalUnits":152,
+    "AffordableUnits":152,
+    "AffordableBeds":0,
+    "Sponsor":"TODCO Group",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418934,37.789873 ]
+    },
+    "properties": {
+    "ID":58,
+    "Status":"Operational",
+    "Name":"Larkin Pine Senior Housing",
+    "Address":"1303 Larkin St, San Francisco, CA 94109",
+    "TotalUnits":63,
+    "AffordableUnits":63,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Nob Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407217,37.780631 ]
+    },
+    "properties": {
+    "ID":1233,
+    "Status":"Operational",
+    "Name":"Natoma Family Apartments",
+    "Address":"474 Natoma St, San Francisco, CA 94103",
+    "TotalUnits":60,
+    "AffordableUnits":60,
+    "AffordableBeds":0,
+    "Sponsor":"Bridge Housing",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409578,37.783428 ]
+    },
+    "properties": {
+    "ID":236,
+    "Status":"Operational",
+    "Name":"Dalt Hotel",
+    "Address":"34 Turk St, San Francisco, CA 94102",
+    "TotalUnits":179,
+    "AffordableUnits":178,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.374089,37.823967 ]
+    },
+    "properties": {
+    "ID":1644,
+    "Status":"Operational",
+    "Name":"TIHDI: Chinook Family Apartments",
+    "Address":"1441 Chinook Ct, San Francisco, CA 94130",
+    "TotalUnits":12,
+    "AffordableUnits":12,
+    "AffordableBeds":0,
+    "Sponsor":"Swords To Plowshares",
+    "Neighborhood":"Treasure Island",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414102,37.751843 ]
+    },
+    "properties": {
+    "ID":2115,
+    "Status":"Operational",
+    "Name":"Pigeon Palace",
+    "Address":"2840 Folsom St, San Francisco, CA 94110",
+    "TotalUnits":6,
+    "AffordableUnits":6,
+    "AffordableBeds":0,
+    "Sponsor":"San Francisco Community Land Trust",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441067,37.773946 ]
+    },
+    "properties": {
+    "ID":1838,
+    "Status":"Operational",
+    "Name":"Mercy Terrace",
+    "Address":"333 Baker St, San Francisco, CA 94117",
+    "TotalUnits":158,
+    "AffordableUnits":158,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California / Sisters of Mercy",
+    "Neighborhood":"Lone Mountain/USF",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419665,37.785821 ]
+    },
+    "properties": {
+    "ID":1257,
+    "Status":"Operational",
+    "Name":"990 Polk",
+    "Address":"990 Polk St, San Francisco, CA 94109",
+    "TotalUnits":110,
+    "AffordableUnits":110,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428191,37.787644 ]
+    },
+    "properties": {
+    "ID":1189,
+    "Status":"Operational",
+    "Name":"Kokoro Assisted Living Facility",
+    "Address":"1881 Bush St, San Francisco, CA 94109",
+    "TotalUnits":54,
+    "AffordableUnits":37,
+    "AffordableBeds":0,
+    "Sponsor":"Kokoro Assisted Living Inc.",
+    "Neighborhood":"Pacific Heights",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414553,37.784859 ]
+    },
+    "properties": {
+    "ID":269,
+    "Status":"Operational",
+    "Name":"Sierra Madre",
+    "Address":"421 Leavenworth St, San Francisco, CA 94109",
+    "TotalUnits":47,
+    "AffordableUnits":46,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428933,37.777987 ]
+    },
+    "properties": {
+    "ID":1851,
+    "Status":"Operational",
+    "Name":"Banneker Homes",
+    "Address":"745 Fulton St, San Francisco, CA 94102",
+    "TotalUnits":108,
+    "AffordableUnits":108,
+    "AffordableBeds":0,
+    "Sponsor":"Banneker Homes, Inc.",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412714,37.781961 ]
+    },
+    "properties": {
+    "ID":1601,
+    "Status":"Operational",
+    "Name":"Vera Haile Senior Housing",
+    "Address":"129 Golden Gate Ave, San Francisco, CA 94102",
+    "TotalUnits":90,
+    "AffordableUnits":90,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California / St. Anthony's",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410537,37.76527 ]
+    },
+    "properties": {
+    "ID":123,
+    "Status":"Operational",
+    "Name":"Casa Aviva",
+    "Address":"1724 Bryant St, San Francisco, CA 94110",
+    "TotalUnits":6,
+    "AffordableUnits":6,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation / Latino Commision",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413812,37.802731 ]
+    },
+    "properties": {
+    "ID":1419,
+    "Status":"Operational",
+    "Name":"901 Columbus Ave",
+    "Address":"901 Columbus Ave, San Francisco, CA 94133",
+    "TotalUnits":77,
+    "AffordableUnits":77,
+    "AffordableBeds":0,
+    "Sponsor":"Victor F. Garces",
+    "Neighborhood":"Russian Hill",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41397,37.784658 ]
+    },
+    "properties": {
+    "ID":286,
+    "Status":"Operational",
+    "Name":"Cambridge Hotel",
+    "Address":"473 Ellis St, San Francisco, CA 94102",
+    "TotalUnits":59,
+    "AffordableUnits":59,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42145,37.785245 ]
+    },
+    "properties": {
+    "ID":1894,
+    "Status":"Operational",
+    "Name":"The Avenue (Assisted Living)",
+    "Address":"1019 Van Ness Ave, San Francisco, CA 94109",
+    "TotalUnits":112,
+    "AffordableUnits":25,
+    "AffordableBeds":0,
+    "Sponsor":"San Francisco Care Center, LP",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409974,37.781895 ]
+    },
+    "properties": {
+    "ID":1793,
+    "Status":"Operational",
+    "Name":"Winsor Hotel",
+    "Address":"20 6th St, San Francisco, CA 94103",
+    "TotalUnits":60,
+    "AffordableUnits":4,
+    "AffordableBeds":0,
+    "Sponsor":"Winsor Hotel",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429607,37.786613 ]
+    },
+    "properties": {
+    "ID":1164,
+    "Status":"Operational",
+    "Name":"Namiki Apartments",
+    "Address":"1776 Sutter St, San Francisco, CA 94115",
+    "TotalUnits":34,
+    "AffordableUnits":33,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center / Namiki Apartments Residents Association",
+    "Neighborhood":"Pacific Heights",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.401473,37.798477 ]
+    },
+    "properties": {
+    "ID":1586,
+    "Status":"Operational",
+    "Name":"Broadway Sansome Family Housing",
+    "Address":"235 Broadway, San Francisco, CA 94111",
+    "TotalUnits":75,
+    "AffordableUnits":75,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.395224,37.786116 ]
+    },
+    "properties": {
+    "ID":1845,
+    "Status":"Operational",
+    "Name":"Rene Cazenave Apartments (Parcel 11A)",
+    "Address":"25 Essex St, San Francisco, CA 94105",
+    "TotalUnits":120,
+    "AffordableUnits":120,
+    "AffordableBeds":0,
+    "Sponsor":"Community Housing Partnership",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42668,37.765992 ]
+    },
+    "properties": {
+    "ID":1081,
+    "Status":"Operational",
+    "Name":"214 Dolores",
+    "Address":"214 Dolores St, San Francisco, CA 94114",
+    "TotalUnits":8,
+    "AffordableUnits":8,
+    "AffordableBeds":0,
+    "Sponsor":"Baker Places",
+    "Neighborhood":"Castro/Upper Market",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420365,37.742858 ]
+    },
+    "properties": {
+    "ID":143,
+    "Status":"Operational",
+    "Name":"Coleridge Park Homes",
+    "Address":"190 Coleridge St, San Francisco, CA 94110",
+    "TotalUnits":49,
+    "AffordableUnits":49,
+    "AffordableBeds":0,
+    "Sponsor":"Bridge Housing",
+    "Neighborhood":"Bernal Heights",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40929,37.783847 ]
+    },
+    "properties": {
+    "ID":1028,
+    "Status":"Operational",
+    "Name":"Ambassador Hotel",
+    "Address":"55 Mason St, San Francisco, CA 94102",
+    "TotalUnits":134,
+    "AffordableUnits":134,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408831,37.77995 ]
+    },
+    "properties": {
+    "ID":1002,
+    "Status":"Operational",
+    "Name":"Minna Park Family Housing",
+    "Address":"529 Minna St, San Francisco, CA 94103",
+    "TotalUnits":26,
+    "AffordableUnits":26,
+    "AffordableBeds":0,
+    "Sponsor":"Asian Neighborhood Design",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4182,37.748104 ]
+    },
+    "properties": {
+    "ID":220,
+    "Status":"Operational",
+    "Name":"Bernal Gateway",
+    "Address":"3101 Mission St, San Francisco, CA 94110",
+    "TotalUnits":55,
+    "AffordableUnits":55,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Bernal Heights",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407861,37.779277 ]
+    },
+    "properties": {
+    "ID":1076,
+    "Status":"Operational",
+    "Name":"1028 Howard",
+    "Address":"1028 Howard St, San Francisco, CA 94103",
+    "TotalUnits":30,
+    "AffordableUnits":30,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415398,37.784485 ]
+    },
+    "properties": {
+    "ID":320,
+    "Status":"Operational",
+    "Name":"555 Ellis Street Family Apartments",
+    "Address":"555 Ellis St, San Francisco, CA 94109",
+    "TotalUnits":38,
+    "AffordableUnits":37,
+    "AffordableBeds":0,
+    "Sponsor":"Asian Neighborhood Design",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414601,37.775386 ]
+    },
+    "properties": {
+    "ID":1140,
+    "Status":"Operational",
+    "Name":"Washburn Hotel",
+    "Address":"38 Washburn St, San Francisco, CA 94103",
+    "TotalUnits":24,
+    "AffordableUnits":24,
+    "AffordableBeds":0,
+    "Sponsor":"Conard House",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415643,37.781928 ]
+    },
+    "properties": {
+    "ID":1048,
+    "Status":"Operational",
+    "Name":"Larkin St Assisted Care Program",
+    "Address":"129 Hyde St, San Francisco, CA 94102",
+    "TotalUnits":0,
+    "AffordableUnits":12,
+    "AffordableBeds":0,
+    "Sponsor":"Larkin Street Youth Services",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412244,37.773362 ]
+    },
+    "properties": {
+    "ID":1258,
+    "Status":"Operational",
+    "Name":"Folsom + Dore Apartments",
+    "Address":"1346 Folsom St, San Francisco, CA 94103",
+    "TotalUnits":98,
+    "AffordableUnits":98,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431572,37.777974 ]
+    },
+    "properties": {
+    "ID":400,
+    "Status":"Operational",
+    "Name":"Junipero Serra House",
+    "Address":"926 Fillmore St, San Francisco, CA 94117",
+    "TotalUnits":25,
+    "AffordableUnits":25,
+    "AffordableBeds":0,
+    "Sponsor":"Mercy Housing California",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411436,37.746843 ]
+    },
+    "properties": {
+    "ID":1085,
+    "Status":"Operational",
+    "Name":"Precita House",
+    "Address":"416 Precita Ave, San Francisco, CA 94110",
+    "TotalUnits":5,
+    "AffordableUnits":5,
+    "AffordableBeds":0,
+    "Sponsor":"Bernal Heights Neighborhood Center",
+    "Neighborhood":"Bernal Heights",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411477,37.776417 ]
+    },
+    "properties": {
+    "ID":1167,
+    "Status":"Operational",
+    "Name":"SOMA Studios",
+    "Address":"1188 Howard St, San Francisco, CA 94103",
+    "TotalUnits":88,
+    "AffordableUnits":88,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430818,37.781843 ]
+    },
+    "properties": {
+    "ID":1063,
+    "Status":"Operational",
+    "Name":"Fillmore Marketplace Apartments",
+    "Address":"1223 Webster St, San Francisco, CA 94115",
+    "TotalUnits":120,
+    "AffordableUnits":120,
+    "AffordableBeds":0,
+    "Sponsor":"Fillmore Marketplace Associates, LP",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417103,37.783315 ]
+    },
+    "properties": {
+    "ID":324,
+    "Status":"Operational",
+    "Name":"575 Eddy",
+    "Address":"575 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":47,
+    "AffordableUnits":47,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc.",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421744,37.764987 ]
+    },
+    "properties": {
+    "ID":292,
+    "Status":"Operational",
+    "Name":"Maria Alicia Apartments",
+    "Address":"3090 16th St, San Francisco, CA 94103",
+    "TotalUnits":20,
+    "AffordableUnits":11,
+    "AffordableBeds":0,
+    "Sponsor":"Mission Housing Development Corporation",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.392877,37.777021 ]
+    },
+    "properties": {
+    "ID":1858,
+    "Status":"Operational",
+    "Name":"Avalon At Mission Bay (Tower 1)",
+    "Address":"255 King St, San Francisco, CA 94107",
+    "TotalUnits":250,
+    "AffordableUnits":21,
+    "AffordableBeds":0,
+    "Sponsor":"AvalonBay Communities Inc.",
+    "Neighborhood":"Mission Bay",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.400498,37.798712 ]
+    },
+    "properties": {
+    "ID":1092,
+    "Status":"Operational",
+    "Name":"Broadway Family Apartments",
+    "Address":"150 Broadway, San Francisco, CA 94111",
+    "TotalUnits":81,
+    "AffordableUnits":81,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Financial District",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420209,37.769307 ]
+    },
+    "properties": {
+    "ID":125,
+    "Status":"Operational",
+    "Name":"1738 Mission",
+    "Address":"1738 Mission St, San Francisco, CA 94103",
+    "TotalUnits":10,
+    "AffordableUnits":10,
+    "AffordableBeds":0,
+    "Sponsor":"Asian, Inc.",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409899,37.797418 ]
+    },
+    "properties": {
+    "ID":376,
+    "Status":"Operational",
+    "Name":"Bayside Elderly Housing",
+    "Address":"777 Broadway, San Francisco, CA 94133",
+    "TotalUnits":30,
+    "AffordableUnits":30,
+    "AffordableBeds":0,
+    "Sponsor":"Chinatown Community Development Center",
+    "Neighborhood":"Chinatown",
+    "SupervisorDistrict":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41176,37.78399 ]
+    },
+    "properties": {
+    "ID":1843,
+    "Status":"Operational",
+    "Name":"Turk & Eddy Apartments",
+    "Address":"249 Eddy St, San Francisco, CA 94102",
+    "TotalUnits":82,
+    "AffordableUnits":80,
+    "AffordableBeds":0,
+    "Sponsor":"Tenderloin Neighborhood Development Corporation",
+    "Neighborhood":"Tenderloin",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.464713,37.739963 ]
+    },
+    "properties": {
+    "ID":1244,
+    "Status":"Operational",
+    "Name":"1340 Portola",
+    "Address":"1340 Portola Dr, San Francisco, CA 94127",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":6,
+    "Sponsor":"West Bay Housing Corporation",
+    "Neighborhood":"West of Twin Peaks",
+    "SupervisorDistrict":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.442382,37.777346 ]
+    },
+    "properties": {
+    "ID":1309,
+    "Status":"Operational",
+    "Name":"McAllister Street Co-ops",
+    "Address":"1840 McAllister St, San Francisco, CA 94115",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":10,
+    "Sponsor":"Conard House",
+    "Neighborhood":"Lone Mountain/USF",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.447605,37.77361 ]
+    },
+    "properties": {
+    "ID":158,
+    "Status":"Operational",
+    "Name":"Ashbury House",
+    "Address":"212 Ashbury St, San Francisco, CA 94117",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":10,
+    "Sponsor":"Progress Foundation",
+    "Neighborhood":"Lone Mountain/USF",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "ID":179,
+    "Status":"Operational",
+    "Name":"SafeHouse",
+    "Address":"0 Confidential, San Francisco, CA 00000",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":10,
+    "Sponsor":"San Francisco Network Ministries",
+    "Neighborhood":" ",
+    "SupervisorDistrict":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.427298,37.774482 ]
+    },
+    "properties": {
+    "ID":1143,
+    "Status":"Operational",
+    "Name":"Odyssey House",
+    "Address":"484 Oak St, San Francisco, CA 94102",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":10,
+    "Sponsor":"Baker Places",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.438061,37.779695 ]
+    },
+    "properties": {
+    "ID":1010,
+    "Status":"Operational",
+    "Name":"Rafiki House",
+    "Address":"1761 Turk St, San Francisco, CA 94115",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":11,
+    "Sponsor":"Rafiki House",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437433,37.781252 ]
+    },
+    "properties": {
+    "ID":1083,
+    "Status":"Operational",
+    "Name":"Ferguson Place",
+    "Address":"1249 Scott St, San Francisco, CA 94115",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":12,
+    "Sponsor":"Baker Places",
+    "Neighborhood":"Western Addition",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39067,37.738635 ]
+    },
+    "properties": {
+    "ID":1210,
+    "Status":"Operational",
+    "Name":"Jelani Family Program",
+    "Address":"1638 Kirkwood Ave, San Francisco, CA 94124",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":12,
+    "Sponsor":"Jelani, Inc. (Bayview Hunters Point Foundation)",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425807,37.772759 ]
+    },
+    "properties": {
+    "ID":159,
+    "Status":"Operational",
+    "Name":"Walden Adolescent",
+    "Address":"214 Haight St, San Francisco, CA 94102",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":12,
+    "Sponsor":"HealthRight360",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441823,37.777682 ]
+    },
+    "properties": {
+    "ID":365,
+    "Status":"Operational",
+    "Name":"Baker's Dozen",
+    "Address":"733 Baker St, San Francisco, CA 94115",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":13,
+    "Sponsor":"Northern California Land Trust",
+    "Neighborhood":"Lone Mountain/USF",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.44997,37.781103 ]
+    },
+    "properties": {
+    "ID":200,
+    "Status":"Operational",
+    "Name":"St. Olga's Home",
+    "Address":"275 Collins St, San Francisco, CA 94118",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":14,
+    "Sponsor":"Russian American Community Services",
+    "Neighborhood":"Lone Mountain/USF",
+    "SupervisorDistrict":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429159,37.769405 ]
+    },
+    "properties": {
+    "ID":1067,
+    "Status":"Operational",
+    "Name":"Maitri",
+    "Address":"401 Duboce Ave, San Francisco, CA 94114",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":15,
+    "Sponsor":"Maitri",
+    "Neighborhood":"Castro/Upper Market",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42738,37.777332 ]
+    },
+    "properties": {
+    "ID":998,
+    "Status":"Operational",
+    "Name":"Autumn Glow",
+    "Address":"654 Grove St, San Francisco, CA 94102",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":15,
+    "Sponsor":"Self Help For The Elderly",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416633,37.749082 ]
+    },
+    "properties": {
+    "ID":986,
+    "Status":"Operational",
+    "Name":"26th Street Cooperative Apartments",
+    "Address":"3327 26th St, San Francisco, CA 94110",
+    "TotalUnits":3,
+    "AffordableUnits":0,
+    "AffordableBeds":16,
+    "Sponsor":"Conard House",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.389703,37.732278 ]
+    },
+    "properties": {
+    "ID":111,
+    "Status":"Operational",
+    "Name":"Jelani House",
+    "Address":"1601 Quesada Ave, San Francisco, CA 94124",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":16,
+    "Sponsor":"Jelani, Inc. (Bayview Hunters Point Foundation)",
+    "Neighborhood":"Bayview Hunters Point",
+    "SupervisorDistrict":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "ID":1,
+    "Status":"Operational",
+    "Name":"Asian Women's Shelter",
+    "Address":"0 Confidential, San Francisco, CA 00000",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":16,
+    "Sponsor":"Mei Fong And Associates",
+    "Neighborhood":" ",
+    "SupervisorDistrict":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42327,37.756788 ]
+    },
+    "properties": {
+    "ID":1204,
+    "Status":"Operational",
+    "Name":"St. Joseph's Family Shelter",
+    "Address":"899 Guerrero St, San Francisco, CA 94110",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":20,
+    "Sponsor":"Catholic Charities",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.373521,37.82435 ]
+    },
+    "properties": {
+    "ID":1152,
+    "Status":"Operational",
+    "Name":"TIHDI: 1445 Chinook",
+    "Address":"1445 Chinook Ct, San Francisco, CA 94130",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":26,
+    "Sponsor":"HealthRight360",
+    "Neighborhood":"Treasure Island",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "ID":1639,
+    "Status":"Operational",
+    "Name":"Gum Moon Residence Hall",
+    "Address":"0 Confidential, San Francisco, CA 00000",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":30,
+    "Sponsor":"Gum Moon",
+    "Neighborhood":" ",
+    "SupervisorDistrict":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408323,37.778758 ]
+    },
+    "properties": {
+    "ID":1060,
+    "Status":"Operational",
+    "Name":"A WOMANS PLACE",
+    "Address":"1049 Howard St, San Francisco, CA 94103",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":54,
+    "Sponsor":"Community Awareness & Treatment Services, Inc.",
+    "Neighborhood":"South of Market",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.375044,37.824824 ]
+    },
+    "properties": {
+    "ID":1153,
+    "Status":"Operational",
+    "Name":"TIHDI: Swords to Plowshares",
+    "Address":"1432 Halibut Ct, San Francisco, CA 94130",
+    "TotalUnits":24,
+    "AffordableUnits":0,
+    "AffordableBeds":56,
+    "Sponsor":"Swords To Plowshares",
+    "Neighborhood":"Treasure Island",
+    "SupervisorDistrict":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421206,37.767306 ]
+    },
+    "properties": {
+    "ID":1173,
+    "Status":"Operational",
+    "Name":"Friendship House",
+    "Address":"56 Julian Ave, San Francisco, CA 94103",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":80,
+    "Sponsor":"Friendship House",
+    "Neighborhood":"Mission",
+    "SupervisorDistrict":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.443088,37.769028 ]
+    },
+    "properties": {
+    "ID":1564,
+    "Status":"Operational",
+    "Name":"Walden House",
+    "Address":"815 Buena Vista Ave, San Francisco, CA 94117",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":108,
+    "Sponsor":"HealthRight360",
+    "Neighborhood":"Haight Ashbury",
+    "SupervisorDistrict":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431047,37.775916 ]
+    },
+    "properties": {
+    "ID":395,
+    "Status":"Operational",
+    "Name":"Hayes Adult Residence",
+    "Address":"890 Hayes St, San Francisco, CA 94117",
+    "TotalUnits":0,
+    "AffordableUnits":0,
+    "AffordableBeds":115,
+    "Sponsor":"HealthRight360",
+    "Neighborhood":"Hayes Valley",
+    "SupervisorDistrict":5
+    }
+  }
+]
+}

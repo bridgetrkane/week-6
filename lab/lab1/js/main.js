@@ -58,13 +58,13 @@ We will write everything we want to happen on each feature inside of the
 following block of code:
 
 var eachFeature = function(feature, layer) {
-  ...
+...
 });
 
 Notice that inside of that block of code we have a second block of code:
 
 layer.on('click', function (e) {
-  ...
+...
 })
 
 That part sets up a click event on each feature. Any code inside that second
@@ -100,60 +100,121 @@ the week was the most common for garbage removal?
 
 var dataset = 'https://raw.githubusercontent.com/CPLN690-MUSA610/datasets/master/geojson/philadelphia-garbage-collection-boundaries.geojson';
 
-var myStyle = function(feature) {
-  return {};
-};
-
-var eachFeature = function(feature, layer) {
-  layer.on('click', function (e) {
-    /* =====================
-    The following code will run every time a feature on the map is clicked.
-    Check out feature.properties to see some useful data about the feature that
-    you can use in your application.
-    ===================== */
-    console.log(feature);
-    showResults();
-  });
-};
-
-var myFilter = function(feature) {
-  return true;
-};
-
-$(document).ready(function() {
-  $.ajax(dataset).done(function(data) {
-    var parsedData = JSON.parse(data);
-    var myFeatureGroup = L.geoJson(parsedData, {
-      onEachFeature: eachFeature,
-      style: myStyle,
-      filter: myFilter
-    }).addTo(map);
-  });
-});
-
-var showResults = function() {
-  /* =====================
-  This function uses some jQuery methods that may be new. $(element).hide()
-  will add the CSS "display: none" to the element, effectively removing it
-  from the page. $(element).hide() removes "display: none" from an element,
-  returning it to the page. You don't need to change this part.
-  ===================== */
-  $('#intro').hide();
-  $('#results').show();
-};
-
 /* =====================
-Leaflet Configuration
+The following code will run every time a feature on the map is clicked.
+Check out feature.properties to see some useful data about the feature that
+you can use in your application.
 ===================== */
 
-var map = L.map('map', {
-  center: [40.000, -75.1090],
-  zoom: 11
-});
-var Stamen_TonerLite = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-  attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-  subdomains: 'abcd',
-  minZoom: 0,
-  maxZoom: 20,
-  ext: 'png'
-}).addTo(map);
+var myStyle = function(feature){
+  if (feature.properties.COLLDAY == "MON")
+  return {
+    color: "#E5BDA4"};
+    if (feature.properties.COLLDAY == "TUE")
+    return {
+      color: "#956D65"};
+      if (feature.properties.COLLDAY == "WED")
+      return {
+        color: "#859185"};
+        if (feature.properties.COLLDAY == "THU")
+        return {
+          color: "#1B2235"};
+          if (feature.properties.COLLDAY == "FRI")
+          return {
+            color: "#7A6955"};
+            else
+            return {
+              color: "#A66047"};
+            };
+
+            var eachFeature = function(feature, layer) {
+              layer.on('click', function (e) {
+                if(feature.properties.COLLDAY == "MON") {
+                  $(".day-of-week").text("Monday").css("color","#E5BDA4");
+                }
+                else if(feature.properties.COLLDAY == "TUE") {
+                  $(".day-of-week").text("Tuesday").css("color","#956D65");
+                }
+                else if(feature.properties.COLLDAY == "WED") {
+                  $(".day-of-week").text("Wednesday").css("color","#859185");
+                }
+                else if(feature.properties.COLLDAY == "THU") {
+                  $(".day-of-week").text("Thursday").css("color","#1B2235");
+                }
+                else if(feature.properties.COLLDAY == "FRI") {
+                  $(".day-of-week").text("Friday").css("color","#7A6955");
+                }
+                else if(feature.properties.COLLDAY == " ") {
+                  $(".day-of-week").text("Unknown").css("color","#A66047");
+                }
+
+                map.fitBounds(this.getBounds());
+                /* =====================
+                The following code will run every time a feature on the map is clicked.
+                Check out feature.properties to see some useful data about the feature that
+                you can use in your application.
+                ===================== */
+                console.log(feature);
+                showResults();
+              });
+            };
+
+            var myFilter = function(feature) {
+              if (feature.properties.COLLDAY == " ") {
+                return false;
+              }
+              else {
+                return true;
+              }
+            };
+
+
+            $(document).ready(function() {
+              $.ajax(dataset).done(function(data) {
+
+                var parsedData = JSON.parse(data);
+                var myFeatureGroup = L.geoJson(parsedData, {
+                  onEachFeature: eachFeature,
+                  style: myStyle,
+                  filter: myFilter
+                }).addTo(map);
+              });
+            });
+
+            var showResults = function() {
+              $('#intro').hide();
+              $('#results').show();
+            };
+
+            /* =====================
+            This function uses some jQuery methods that may be new. $(element).hide()
+            will add the CSS "display: none" to the element, effectively removing it
+            from the page. $(element).hide() removes "display: none" from an element,
+            returning it to the page. You don't need to change this part.
+            ===================== */
+
+            var closeResults = function() {
+              $('#intro').show();
+              $('#results').hide();
+              this.map.setView(new L.LatLng(40.000, -75.1090), 11);
+            };
+
+            $('#close').click(function() {
+              closeResults();
+            });
+
+            /* =====================
+            Leaflet Configuration
+            ===================== */
+
+            var map = L.map('map', {
+              center: [40.000, -75.1090],
+              zoom: 11
+            });
+            var Stamen_TonerLite = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+              attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+              subdomains: 'abcd',
+              minZoom: 0,
+              maxZoom: 20,
+              ext: 'png'
+            }).addTo(map);
