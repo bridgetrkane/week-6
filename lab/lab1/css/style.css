@@ -31,8 +31,17 @@ p.main {
   position: absolute;
   background-color: #fff;
   z-index: 2000;
-  left: 500px;
-  width: 400px;
+  left: 600px;
+  width: 250px;
+}
+
+#close {
+  background-color: #859185;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  opacity: 0.7;
+  position: fixed;
+  margin-left: 155px;
 }
 
 .legendTable{
@@ -63,13 +72,4 @@ p.main {
 #legend-FRI{
   background-color: #7A6955;
   opacity: 0.5;
-}
-
-#close {
-  background-color: #859185;
-  -moz-border-radius: 15px;
-  -webkit-border-radius: 15px;
-  opacity: 0.7;
-  position: fixed;
-  margin-left: 300px;
 }
